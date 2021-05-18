@@ -28,16 +28,16 @@ navbar-links:
   es:
     Acerca de mí:
       name: "Acerca de mí"
-      url: "congresoK/aboutme_es"
+      url: "/aboutme_es"
     Elem1:
       name: Elem1
-      url: "congresoK/item1_es"
+      url: "/item1_es"
     Elem1:
       name: Elem3
-      url: "congresoK/item2_es"
+      url: "/item2_es"
     Elem1:
       name: Elem3
-      url: "congresoK/item3_es"
+      url: "/item3_es"
     Recursos:
       - Learn markdown: "https://www.markdowntutorial.com/"
       - Pagina Papime: "http://literatura-angloirlandesa.filos.unam.mx"
