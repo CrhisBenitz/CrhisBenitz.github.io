@@ -26,10 +26,10 @@ navbar-links:
     Crhis': "https://github.com/CrhisBenitz"
 
   es:
-    Acerca de mí: "aboutme_es"
-    Elem1: "item1_es"
-    Elem2: "item2_es"
-    Elem3: "item3_es"
+    Acerca de mí: "aboutme"
+    Elem1: "item1"
+    Elem2: "item2"
+    Elem3: "item3"
     Recursos:
       - Learn markdown: "https://www.markdowntutorial.com/"
       - Pagina Papime: "http://literatura-angloirlandesa.filos.unam.mx"
