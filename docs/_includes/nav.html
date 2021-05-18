@@ -32,15 +32,15 @@
       {%- endfor -%}
       {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
         {% for post in posts %}
-          <li>
-            <a href="{{ site.url + post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
-          </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ post.url }}" class="{{ post.lang }}">{{ page.lang }}</a>
+        </li>
         {% endfor %}
 
       {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
         {% for page in pages %}
-          <li>
-            <a href="prueba.com" class="{{ page.lang }}">{{ page.lang }}</a>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
           </li>
         {% endfor %}
     </ul>
