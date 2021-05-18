@@ -15,7 +15,7 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  en:
+  es:
     About Me: "aboutme"
     Item1: "item1"
     Item2: "item2"
@@ -25,7 +25,7 @@ navbar-links:
       - Pagina Papime: "http://literatura-angloirlandesa.filos.unam.mx"
     Crhis': "https://github.com/CrhisBenitz"
 
-  es:
+  en:
     Acerca de mí:
       name: "Acerca de mí"
       url: "/aboutme_es"
