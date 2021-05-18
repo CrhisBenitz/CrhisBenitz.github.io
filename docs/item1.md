@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Item 1
-subtitle: Prueba 1
+subtitle: Test 1
+lang: en
+ref: it1
 ---
 
-Nada por aquí
+Nothing here
