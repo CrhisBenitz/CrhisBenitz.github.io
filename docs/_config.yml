@@ -28,7 +28,7 @@ navbar-links:
   es:
     Acerca de mí:
       name: "Acerca de mí"
-      url: "aboutme_es"
+      url: site.url+"aboutme_es"
     Elem1:
       name: Elem1
       url: "item1_es"
