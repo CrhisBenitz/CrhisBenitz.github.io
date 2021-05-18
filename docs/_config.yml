@@ -7,7 +7,7 @@
 
 # Name of website
 title: Congreso
-url: "congresoK/"
+#url: "congresoK/"
 
 # Your name to show in the footer
 author: Some Person
@@ -26,18 +26,10 @@ navbar-links:
     Crhis': "https://github.com/CrhisBenitz"
 
   en:
-    Acerca de mí:
-      name: "Acerca de mí"
-      url: "/aboutme_es"
-    Elem1:
-      name: Elem1
-      url: "/item1_es"
-    Elem1:
-      name: Elem3
-      url: "/item2_es"
-    Elem1:
-      name: Elem3
-      url: "/item3_es"
+    Acerca de mí: "aboutme_es"
+    Elem1: "item1_es"
+    Elem2: "item2_es"
+    Elem3: "item3_es"
     Recursos:
       - Learn markdown: "https://www.markdowntutorial.com/"
       - Pagina Papime: "http://literatura-angloirlandesa.filos.unam.mx"
