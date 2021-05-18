@@ -25,6 +25,10 @@ layout: base
         </div>
       {% endif %}
 
+      {% if page.social-share %}
+        {% include social-share.html %}
+      {% endif %}
+
       {% include comments.html %}
     </div>
   </div>

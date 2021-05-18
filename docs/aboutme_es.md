@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acerca de mi
+title: Acerca de mí
 subtitle: About me en esp
 lang: es
 ref: aboutme
@@ -8,7 +8,7 @@ ref: aboutme
 
 Español:
 
-My name is Inigo Montoya. I have the following qualities:
+Le iamo Marco. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
