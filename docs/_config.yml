@@ -16,10 +16,13 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
+  Item1: "item1"
+  Item2: "item2"
+  Item3: "item3"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Pagina Papime: "http://literatura-angloirlandesa.filos.unam.mx"
+  Crhis': "https://github.com/CrhisBenitz"
 
 # --- Logo --- #
 
@@ -227,9 +230,6 @@ exclude:
   - screenshot.png
 #  - docs/
 
-# languages
-# default langages : "en"
-languages: ["en", "es"]
 
 plugins:
   - jekyll-paginate
