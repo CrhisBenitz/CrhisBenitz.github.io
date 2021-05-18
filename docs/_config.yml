@@ -15,14 +15,25 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Item1: "item1"
-  Item2: "item2"
-  Item3: "item3"
-  Resources:
-    - Learn markdown: "https://www.markdowntutorial.com/"
-    - Pagina Papime: "http://literatura-angloirlandesa.filos.unam.mx"
-  Crhis': "https://github.com/CrhisBenitz"
+  en:
+    About Me: "aboutme"
+    Item1: "item1"
+    Item2: "item2"
+    Item3: "item3"
+    Resources:
+      - Learn markdown: "https://www.markdowntutorial.com/"
+      - Pagina Papime: "http://literatura-angloirlandesa.filos.unam.mx"
+    Crhis': "https://github.com/CrhisBenitz"
+
+  es:
+    Acerca de mí: "aboutme_es"
+    Elem1: "item1_es"
+    Elem2: "item2_es"
+    Elem3: "item3_es"
+    Recursos:
+      - Learn markdown: "https://www.markdowntutorial.com/"
+      - Pagina Papime: "http://literatura-angloirlandesa.filos.unam.mx"
+    Crhis': "https://github.com/CrhisBenitz"
 
 # --- Logo --- #
 
