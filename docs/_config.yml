@@ -227,6 +227,10 @@ exclude:
   - screenshot.png
 #  - docs/
 
+# languages
+# default langages : "en"
+languages: ["en", "es"]
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
