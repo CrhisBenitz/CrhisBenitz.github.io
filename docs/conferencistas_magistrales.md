@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Elem 1
-subtitle: Prueba 1
+title: Conferencistas magistrales
+subtitle:
 lang: es
-ref: it1
+ref: keyspe
 ---
 
 Nada por aquí
