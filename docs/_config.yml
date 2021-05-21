@@ -6,7 +6,9 @@
 # --- Required options --- #
 
 # Name of website
-title: Congreso
+title:
+  en: Home/Info
+  es: Inicio/Info
 #url: "congresoK/"
 
 # Your name to show in the footer
@@ -16,14 +18,12 @@ author: Some Person
 
 navbar-links:
   en:
-    Home/info: "index"
     Keynote Speakers: "keynote_speakers"
     Featured Artists: "featured_artists"
     Conference Programme: "conference_programme"
     Registration: "registration"
 
   es:
-    Inicio/info: "inicio"
     Conferencistas magistrales: "conferencistas_magistrales"
     Artistas invitadas: "artistas_invitadas"
     Programa del congreso: "programa_congreso"
