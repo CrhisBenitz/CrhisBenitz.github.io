@@ -1047,3 +1047,10 @@ pre {
 .list-circles-item .item-link:hover {
   color: #042265;
 }
+
+.list-circles-item-row {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+}
