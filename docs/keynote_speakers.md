@@ -6,8 +6,8 @@ lang: en
 ref: keyspe
 
 speakers-list:
-  - name: Gregory Armstrong
-    img: congresoK/assets/img/avatar-icon.png
+  - name: Luci Collin
+    img: /assets/img/Luci Collin.jpg
     desc: Director of the Advanced Molecular Detection initiative, with extensive experience in epidemiology and outbreak response at CDC, Atlanta, USA.
     website: http://www.cdc.gov/amd/
     url: http://www.cdc.gov/amd/
