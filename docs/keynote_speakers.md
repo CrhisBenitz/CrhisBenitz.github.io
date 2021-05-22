@@ -16,7 +16,7 @@ speakers-list:
     desc:
   - name: James Ramey
     img: /assets/img/James Ramey.jpg
-    desc: Computer scientist with a strong background in statistics and network theory, Gabor is a prominent member of the R community who develops and contributes to a number of major packages such as <i>igraph</i>, <i>roxygen</i> and <i>R6</i>. Mango Solutions, Chippenham, UK.
+    desc: Computer scientist with a strong background in statistics and network theory, Gabor is a prominent member of the R community who develops and contributes to a number of major packages such as <em>igraph</em>, <em>roxygen</em> and <em>R6</em>. Mango Solutions, Chippenham, UK.
 ---
 
 {% include list-circles.html items=page.speakers-list %}
