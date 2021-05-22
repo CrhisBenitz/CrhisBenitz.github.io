@@ -1,8 +1,8 @@
 <div class="list-circles">
   {% for item in include.items %}
-    <div class="list-circles-item-row">
 
       <div class="list-circles-item">
+
       <div class="circle-image">
       {% if item.img %}
         {% if item.url %}
@@ -12,10 +12,8 @@
         {% endif %}
       {% endif %}
       </div>
-      </div>
 
-      <div class="list-circles-item-row">
-      <div class="circles-info">
+      <div class="circles-image">
       {% if item.name %}
         <h4 class="item-name">{{ item.name }}</h4>
       {% endif %}
@@ -23,8 +21,6 @@
         <div class="item-desc">{{ item.desc }}</div>
       {% endif %}
       </div>
-      </div>
-
       </div>
 
   {% endfor %}
