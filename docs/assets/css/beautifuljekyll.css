@@ -1025,13 +1025,20 @@ pre {
 .list-circles-item .circle-image .item-img {
   max-width: 200px;
   height: 200px;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  border-radius: 50%;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 100%;
   border: 1px solid #777;
 }
 
 .list-circles-item .circle-image {
+  width: 50%;
+  float: left;
+  padding: 20px;
+  border: 2px solid red;
+}
+
+.list-circles-item .circle-info {
   width: 50%;
   float: left;
   padding: 20px;
