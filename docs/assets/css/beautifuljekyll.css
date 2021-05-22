@@ -1023,26 +1023,26 @@ pre {
 }
 
 .list-circles-item .item-col .item-img {
-  max-width: 400px;
-  height: 400px;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
+  max-width: 100%;
+  width: 500px;
+/*-webkit-border-radius: 50%;
+  -moz-border-radius: 50%;*/
   border-radius: 50%;
   border: 1px solid #777;
 }
 
 .list-circles-item .item-col1 {
-  width: 50%;
+  width: 35%;
   float: left;
-  padding: 20px;
-  border: 2px solid red;
+  padding: 0px;
+  /* border: 2px solid red; */
 }
 
 .list-circles-item .item-col2 {
-  width: 60%;
-  margin-left: 40%;
-  padding: 20px;
-  border: 2px solid blue;
+  width: 65%;
+  margin-left: 35%;
+  padding: 10px;
+  /* border: 2px solid blue; */
 }
 
 .list-circles-item .item-col .item-desc {
