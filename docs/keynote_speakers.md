@@ -32,8 +32,4 @@ speakers-list:
     github: https://github.com/jlgardy
 ---
 
-## Executive board
-
-These people are currently heading RECON.
-
 {% include list-circles.html items=page.speakers-list %}
