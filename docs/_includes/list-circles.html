@@ -3,7 +3,7 @@
 
       <div class="list-circles-item">
 
-      <div class="circle-image">
+      <div class="item-col1">
       {% if item.img %}
         {% if item.url %}
           <a href="{{ item.url }}"><img src="{{ item.img }}" class="item-img" /></a>
@@ -13,7 +13,7 @@
       {% endif %}
       </div>
 
-      <div class="circles-image">
+      <div class="item-col2">
       {% if item.name %}
         <h4 class="item-name">{{ item.name }}</h4>
       {% endif %}
