@@ -1010,18 +1010,19 @@ pre {
 
 
 .list-circles-item {
-  display: inline-block;
-  width: 240px;
+  display: block;
+  width: 100%;
   vertical-align: top;
   margin: 0;
   padding: 20px;
+  float: left;
 }
 
 .list-circles-item:hover {
   background: #fafafa;
 }
 
-.list-circles-item .item-img {
+.list-circles-item .circle-image .item-img {
   max-width: 200px;
   height: 200px;
   -webkit-border-radius: 50%;
@@ -1030,7 +1031,14 @@ pre {
   border: 1px solid #777;
 }
 
-.list-circles-item .item-desc {
+.list-circles-item .circle-image {
+  width: 50%;
+  float: left;
+  padding: 20px;
+  border: 2px solid red;
+}
+
+.list-circles-item .circles-info .item-desc {
   font-size: 16px;
 }
 
@@ -1046,11 +1054,4 @@ pre {
 
 .list-circles-item .item-link:hover {
   color: #042265;
-}
-
-.list-circles-item-row {
-    width: 50%;
-    float: left;
-    padding: 20px;
-    border: 2px solid red;
 }
