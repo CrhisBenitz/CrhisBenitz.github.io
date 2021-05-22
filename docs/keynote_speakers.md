@@ -9,9 +9,6 @@ speakers-list:
   - name: Luci Collin
     img: /assets/img/Luci Collin.jpg
     desc: Director of the Advanced Molecular Detection initiative, with extensive experience in epidemiology and outbreak response at CDC, Atlanta, USA.
-    website: http://www.cdc.gov/amd/
-    url: http://www.cdc.gov/amd/
-    twitter: https://twitter.com/CDC_AMD
   - name: Gabor Csardi
     img: congresoK/assets/img/avatar-icon.png
     desc: Computer scientist with a strong background in statistics and network theory, Gabor is a prominent member of the R community who develops and contributes to a number of major packages such as <i>igraph</i>, <i>roxygen</i> and <i>R6</i>. Mango Solutions, Chippenham, UK.
