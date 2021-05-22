@@ -1010,7 +1010,7 @@ pre {
 
 
 .list-circles-item {
-  display: block;
+  display: inline-block;
   width: 240px;
   vertical-align: top;
   margin: 0;
