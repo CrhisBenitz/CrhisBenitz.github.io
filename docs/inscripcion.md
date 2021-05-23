@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Elem 1
-subtitle: Prueba 1
+title: Inscripción
+subtitle:
 lang: es
-ref: it1
+ref: ref4
 ---
 
 Nada por aquí

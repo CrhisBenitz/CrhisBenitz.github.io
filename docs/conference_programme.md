@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Item 1
-subtitle: Test 1
+title: Conference Programme
+subtitle:
 lang: en
-ref: it1
+ref: ref3
 ---
 
 Nothing here

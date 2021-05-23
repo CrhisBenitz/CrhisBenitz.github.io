@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Elem 1
-subtitle: Prueba 1
+title: Programa del congreso
+subtitle:
 lang: es
-ref: it1
+ref: ref3
 ---
 
 Nada por aquí

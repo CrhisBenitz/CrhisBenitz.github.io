@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Item 1
-subtitle: Test 1
+title: Registration
+subtitle:
 lang: en
-ref: it1
+ref: ref4
 ---
 
 Nothing here

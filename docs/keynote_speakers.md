@@ -3,7 +3,7 @@ layout: page
 title: Keynote Speakers
 subtitle: Subtitle
 lang: en
-ref: keyspe
+ref: ref1
 speakers-list:
   - name: Luci Collin
     img: /assets/img/Luci Collin.jpg

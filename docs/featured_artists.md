@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Item 1
-subtitle: Test 1
+title: Featured Artists
+subtitle:
 lang: en
-ref: it1
+ref: ref2
 ---
 
 Nothing here

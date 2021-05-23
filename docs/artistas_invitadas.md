@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Elem 1
-subtitle: Prueba 1
+title: Artistas invitadas
+subtitle:
 lang: es
-ref: it1
+ref: ref2
 ---
 
 Nada por aquí
