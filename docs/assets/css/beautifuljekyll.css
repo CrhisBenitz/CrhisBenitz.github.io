@@ -1022,15 +1022,6 @@ pre {
   background: #fafafa;
 }
 
-.list-circles-item .item-col1 .item-img {
-  max-width: 100%;
-  width: 500px;
-/*-webkit-border-radius: 50%;
-  -moz-border-radius: 50%;*/
-  border-radius: 50%;
-  border: 1px solid #777;
-}
-
 .list-circles-item .item-col1 {
   width: 35%;
   float: left;
@@ -1043,6 +1034,15 @@ pre {
   margin-left: 35%;
   padding: 10px;
   /* border: 2px solid blue; */
+}
+
+.list-circles-item .item-col1 .item-img {
+  max-width: 100%;
+  width: 500px;
+/*-webkit-border-radius: 50%;
+  -moz-border-radius: 50%;*/
+  border-radius: 50%;
+  border: 1px solid #777;
 }
 
 .list-circles-item .item-col2 .item-desc {
