@@ -1022,7 +1022,7 @@ pre {
   background: #fafafa;
 }
 
-.list-circles-item .item-col .item-img {
+.list-circles-item .item-col1 .item-img {
   max-width: 100%;
   width: 500px;
 /*-webkit-border-radius: 50%;
@@ -1045,7 +1045,7 @@ pre {
   /* border: 2px solid blue; */
 }
 
-.list-circles-item .item-col .item-desc {
+.list-circles-item .item-col2 .item-desc {
   font-size: 16px;
 }
 
