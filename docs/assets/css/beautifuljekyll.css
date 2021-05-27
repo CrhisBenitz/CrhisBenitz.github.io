@@ -1094,7 +1094,7 @@ pre {
   content: "\2212";
 }
 
-.content {
+.panel {
   padding: 0 18px;
   max-height: 0;
   overflow: hidden;
