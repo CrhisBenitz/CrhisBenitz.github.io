@@ -106,14 +106,27 @@ feed_show_excerpt: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#025A6E"
+# Defaults:
+# navbar-col: "#025A6E"
+# navbar-text-col: "#EAEAEA"
+# navbar-border-col: "#DDDDDD"
+# page-col: "#FFFFFF"
+# text-col: "#404040"
+# link-col: "#008AFF"
+# hover-col: "#0085A1"
+# footer-col: "#025A6E"
+# footer-text-col: "#EAEAEA"
+# footer-link-col: "#EAEAEA"
+
+# Paleta del cartel:
+navbar-col: "#7BA0D0"
 navbar-text-col: "#EAEAEA"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#025A6E"
+link-col: "#D1CF92"
+hover-col: "#D1CF92"
+footer-col: "#7BA0D0"
 footer-text-col: "#EAEAEA"
 footer-link-col: "#EAEAEA"
 
