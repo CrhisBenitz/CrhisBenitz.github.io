@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Keynote Speakers
-subtitle: Subtitle
 lang: en
 ref: ref1
 speakers-list:

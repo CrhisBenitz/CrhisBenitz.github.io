@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conferencistas magistrales
-subtitle: 
+subtitle:
 lang: es
 ref: ref1
 speakers-list:
