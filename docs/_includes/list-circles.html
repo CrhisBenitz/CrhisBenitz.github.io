@@ -20,25 +20,28 @@
 
         <div class="item-col2">
         {% if item.name %}
-          <h4 class="item-name">{{ item.name }}</h4>
+          <button class="collapsible"><h2 class="item-name">{{ item.name }}</h2></button>
+        {% if item.bio %}
+          <div class="content">
+          <div class="item-bio">{{ item.bio }}</div>
+          </div>
         {% endif %}
-        {% if item.desc %}
-          <div class="item-desc">{{ item.desc }}</div>
+        {% endif %}
+        {% if item.talktitle %}
+          <button class="collapsible"><h3 class="item-talktitle">{{ item.talktitle }}</h3></button>
+          {% if item.talkabstract %}
+            <div class="content">
+            <div class="item-talkabstract">{{ item.talkabstract }}</div>
+            </div>
+          {% endif %}
         {% endif %}
         </div>
         </div>
-
     {% endfor %}
   </div>
 
 
 <h2>Animated Collapsibles</h2>
-
-<p>A Collapsible:</p>
-<button class="collapsible">Open Collapsible</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
 
 <p>Collapsible Set:</p>
 <button class="collapsible">Open Section 1</button>
