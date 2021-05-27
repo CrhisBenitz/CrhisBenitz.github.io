@@ -58,7 +58,7 @@ table td > span {
 </style>
 
   <body>
-  <tabla>
+  <table>
     <tr>
       <th>08:00</th>
       <td colspan="4" rowspan="2" class="stage-saturn">Welcome</td>
@@ -159,9 +159,9 @@ table td > span {
     <tr>
       <th>21:00</th>
     </tr>
-</tabla>
+</table>
 
-<tabla>
+<table>
   <tr>
     <th>08:00</th>
     <td colspan="4" rowspan="2" class="stage-saturn">Welcome</td>
@@ -262,5 +262,5 @@ table td > span {
   <tr>
     <th>21:00</th>
   </tr>
-</tabla>
+</table>
   </body>
