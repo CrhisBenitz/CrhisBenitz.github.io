@@ -8,15 +8,6 @@ ref: ref3
 
 <style>
 <link rel="stylesheet" href="{{ /assets/css/beautifuljekyll.css | relative_url }}">
-body {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  min-height: 100vh;
-  padding: 4rem 0;
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-}
 
 table {
   width: 100%;
