@@ -20,7 +20,7 @@
 
         <div class="item-col2">
         {% if item.name %}
-          <button class="collapsible">{{ item.name }}</button>
+          <button class="collapsible" style="font-size: 18px; font-weight: bold;">{{ item.name }}</button>
         {% if item.bio %}
           <div class="content">
           <div class="item-bio"><p>{{ item.bio }}</p></div>
@@ -39,23 +39,6 @@
         </div>
     {% endfor %}
   </div>
-
-
-<h2>Animated Collapsibles</h2>
-
-<p>Collapsible Set:</p>
-<button class="collapsible">Open Section 1</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-<button class="collapsible">Open Section 2</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-<button class="collapsible">Open Section 3</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
 
 <script>
 var coll = document.getElementsByClassName("collapsible");

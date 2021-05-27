@@ -1025,7 +1025,7 @@ pre {
 .list-circles-item .item-col1 {
   width: 35%;
   float: left;
-  padding: 0px;
+  padding: 10px;
   vertical-align: middle;
   /* border: 2px solid red; */
 }
@@ -1033,7 +1033,7 @@ pre {
 .list-circles-item .item-col2 {
   width: 65%;
   margin-left: 35%;
-  padding: 10px;
+  padding: 40px;
   vertical-align: middle;
   /* border: 2px solid blue; */
 }
@@ -1089,8 +1089,8 @@ pre {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 20px;
-  font-weight: bold;
+  font-size: 18px;
+  /* font-weight: bold; */
 }
 
 .active, .collapsible:hover {
