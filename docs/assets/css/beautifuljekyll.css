@@ -1081,8 +1081,8 @@ pre {
 /* Acordeon/desplegables */
 
 .collapsible {
-  background-color: #777;
-  color: white;
+  background-color: #607b9e;
+  color: #f1eea3;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -1095,11 +1095,12 @@ pre {
 
 .active, .collapsible:hover {
   background-color: #555;
+  color: #D1CF92;
 }
 
 .collapsible:after {
   content: '\002B';
-  color: white;
+  color: #f1eea3;
   font-weight: bold;
   float: right;
   margin-left: 5px;
@@ -1107,6 +1108,7 @@ pre {
 
 .active:after {
   content: "\2212";
+  color: #D1CF92;
 }
 
 .content {
