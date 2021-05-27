@@ -1039,28 +1039,28 @@ pre {
 }
 
 .list-circles-item .item-col1 .item-img {
-  max-width: 100%;
+  max-width: 80%;
   width: 500px;
 /*-webkit-border-radius: 50%;
   -moz-border-radius: 50%;*/
   border-radius: 50%;
-  border: 1px solid #777;
+  border: 8px solid #D1CF92;
 }
 
 .list-circles-item .item-col2 .item-bio {
-  font-size: 16px;
+  font-size: 1.125rem;
 }
 
 .list-circles-item .item-col2 .item-talkabstract {
-  font-size: 16px;
+  font-size: 1.125rem;
 }
 
 .list-circles-item .item-col2 .item-name {
-  font-size: 20px;
+  font-size: 1.8rem;
 }
 
 .list-circles-item .item-col2 .item-talktitle {
-  font-size: 20px;
+  font-size: 1.4rem;
 }
 
 .list-circles-item .item-links {
