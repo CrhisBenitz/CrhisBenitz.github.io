@@ -1048,19 +1048,19 @@ pre {
 }
 
 .list-circles-item .item-col2 .item-bio {
-  font-size: 1.6vw;
+  font-size: 1.2vw;
 }
 
 .list-circles-item .item-col2 .item-talkabstract {
-  font-size: 1.6vw;
+  font-size: 1.2vw;
 }
 
 .list-circles-item .item-col2 .item-name {
-  font-size: 2vw;
+  font-size: 1.4vw;
 }
 
 .list-circles-item .item-col2 .item-talktitle {
-  font-size: 2vw;
+  font-size: 1.4vw;
 }
 
 .list-circles-item .item-links {
@@ -1084,12 +1084,12 @@ pre {
   background-color: #777;
   color: white;
   cursor: pointer;
-  padding: 1.8vw;
+  padding: 1.3vw;
   width: 100%;
   border: none;
   text-align: left;
   outline: none;
-  font-size: 1.8vw;
+  font-size: 1.3vw;
   /* font-weight: bold; */
 }
 
@@ -1102,7 +1102,7 @@ pre {
   color: white;
   font-weight: bold;
   float: right;
-  margin-left: .5vw;
+  margin-left: .3vw;
 }
 
 .active:after {
@@ -1110,7 +1110,7 @@ pre {
 }
 
 .content {
-  padding: 0 1.8vw;
+  padding: 0 1.3vw;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
