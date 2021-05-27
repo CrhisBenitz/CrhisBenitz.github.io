@@ -39,7 +39,7 @@
   <meta name="keywords" content="{{ site.keywords }}">
   {% endif %}
 
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
+  <!-- <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}"> -->
 
   {% include gtag.html %}
   {% include gtm_head.html %}
@@ -69,7 +69,7 @@
       {% include ext-css.html css=css %}
     {% endfor %}
   {% endif %}
-  
+
   {% if page.css %}
     {% for css in page.css %}
       <link rel="stylesheet" href="{{ css | relative_url }}">
