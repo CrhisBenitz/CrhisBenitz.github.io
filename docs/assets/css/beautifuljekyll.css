@@ -804,7 +804,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 
 /* --- Tables --- */
 
-/* table {
+table {
   padding: 0;
 }
 table tr {
@@ -836,7 +836,7 @@ table tr td :first-child {
 table tr th :last-child,
 table tr td :last-child {
   margin-bottom: 0;
-} */
+}
 
 /* --- Code blocks --- */
 
