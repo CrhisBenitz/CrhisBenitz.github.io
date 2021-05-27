@@ -36,25 +36,5 @@ common-js:
 
   {% include footer-scripts.html %}
 
-<script>
-
-
-  document.addEventListener('DOMContentLoaded', function() {
-    var coll = document.getElementsByClassName("collapsible");
-    var i;
-    for (i = 0; i < coll.length; i++) {
-      coll[i].addEventListener("click", function() {
-        this.classList.toggle("active");
-        var panel = this.nextElementSibling;
-        if (panel.style.maxHeight){
-          panel.style.maxHeight = null;
-        } else {
-          panel.style.maxHeight = panel.scrollHeight + "px";
-        }
-      });
-    }
-  });
-</script>
-
 </body>
 </html>
