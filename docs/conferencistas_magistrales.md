@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conferencistas magistrales
-subtitle:
+subtitle: Subtitulo
 lang: es
 ref: ref1
 speakers-list:
@@ -16,7 +16,7 @@ speakers-list:
     desc:
   - name: James Ramey
     img: /assets/img/James Ramey.jpg
-    desc: 
+    desc:
 ---
 
 {% include list-circles.html items=page.speakers-list %}
