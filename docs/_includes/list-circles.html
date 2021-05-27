@@ -20,7 +20,7 @@
 
         <div class="item-col2">
         {% if item.name %}
-          <button class="collapsible"><h4 class="item-name">{{ item.name }}</h4></button>
+          <button class="collapsible"><p class="item-name">{{ item.name }}</p></button>
         {% if item.bio %}
           <div class="content">
           <div class="item-bio"><p>{{ item.bio }}</p></div>
@@ -28,7 +28,7 @@
         {% endif %}
         {% endif %}
         {% if item.talktitle %}
-          <button class="collapsible"><h4 class="item-talktitle">{{ item.talktitle }}</h4></button>
+          <button class="collapsible"><p class="item-talktitle">{{ item.talktitle }}</p></button>
           {% if item.talkabstract %}
             <div class="content">
             <div class="item-talkabstract"><p>{{ item.talkabstract }}</p></div>
