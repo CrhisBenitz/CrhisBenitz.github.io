@@ -7,7 +7,6 @@ ref: ref3
 ---
 
 <style>
-<link rel="stylesheet" href="{{ /assets/css/beautifuljekyll.css | relative_url }}">
 table {
   width: 100%;
   max-width: 50rem;
@@ -60,7 +59,7 @@ table td > span {
   <body>
   <table>
     <tr>
-      <th>08:00</th>
+      <th>10:15</th>
       <td colspan="4" rowspan="2" class="stage-saturn">Welcome</td>
     </tr>
     <tr>
