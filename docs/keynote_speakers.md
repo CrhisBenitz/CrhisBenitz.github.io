@@ -20,6 +20,9 @@ speakers-list:
 
 {% include list-circles.html items=page.speakers-list %}
 
+<style>
+<link rel="stylesheet" href="{{ /assets/css/beautifuljekyll.css | relative_url }}">
+</style>
 <body>
 
 <h2>Animated Collapsibles</h2>
