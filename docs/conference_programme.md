@@ -11,7 +11,7 @@ ref: ref3
 </style>
 
   <body>
-  <table>
+  <tabla>
     <tr>
       <th>08:00</th>
       <td colspan="4" rowspan="2" class="stage-saturn">Welcome</td>
@@ -112,9 +112,9 @@ ref: ref3
     <tr>
       <th>21:00</th>
     </tr>
-</table>
+</tabla>
 
-<table>
+<tabla>
   <tr>
     <th>08:00</th>
     <td colspan="4" rowspan="2" class="stage-saturn">Welcome</td>
@@ -215,5 +215,5 @@ ref: ref3
   <tr>
     <th>21:00</th>
   </tr>
-</table>
+</tabla>
   </body>
