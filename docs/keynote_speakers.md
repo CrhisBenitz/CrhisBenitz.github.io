@@ -12,11 +12,11 @@ speakers-list:
   - name: Yanna Hadatty
     img: /assets/img/Yanna Hadatty.png
     bio:
-    talktitle:
-    talkabstract:
+    talktitle: "Mapping Joycean Trajectories in Mexico"
+    talkabstract: This paper examines the past and present of Joycean influence on Mexican writers by establishing the routes by which the Irishman's work arrives in country, discussing how Joyce <i>qua cipher</i> of literary modernity becomes a central element of cosmopolitan literary production, and identifying several literary trajectories that creatively engage with Joyce in recent publications.
   - name: Brian Price
     img: /assets/img/Brian Price.jpg
-    bio:
+    bio: Full professor of Spanish American Literature and Culture, at Brigham Young University. He is author of the book <i>Cult of Defeat in Mexico’s Historical Fiction&#58;  Failure, Trauma, and Loss</i>. New York&#58;  Palgrave Macmillan, 2012; editor of <i>Asaltos a la historia&#58; reimaginando la ficción histórica hispanoamericana</i>. Mexico&#58;  Ediciones Eón, 2014; and co-editor of <i>TransLatin Joyce&#58; Global Transmissions in Ibero-American Literature</i>. Eds. Brian L. Price, César A. Salgado, and John Pedro Schwartz. New York&#58;  Palgrave Macmillan, 2014; and <i>The Lost Cinema of Mexico&#58; Reading 1960s-80s Mexican Cinema Against the Grain</i>. Eds. Olivia Consentino and Brian Price. Gainesville, FL&#58; University of Florida Press, 2021.<br><br> Most of his teaching and research revolves around Spanish American culture and literature, with an emphasis on contemporary Mexican literature, film, music, and food. He has taught seminars on countercultural music and literature, the historical novel, commercial cinema, and comparative literature. He is currently writing a book on rock and roll and literature in Mexico, under the provisional title&#58; <i>¡Viva Rockotitlán!&#58; Rock Literature in Mexico (1960-2010)</i>.
     talktitle:
     talkabstract:
   - name: James Ramey
