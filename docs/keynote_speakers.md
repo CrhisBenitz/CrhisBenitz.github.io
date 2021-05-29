@@ -7,7 +7,7 @@ speakers-list:
   - name: Luci Collin
     img: /assets/img/Luci Collin.jpg
     bio: Writer, translator and educator, she was born in Brazil in 1964. She earned a BA in Piano/Performance (EMBAP, 1985), a degree in Portuguese and English Languages (UFPR, 1989), and a BA in Classical Percussion (EMBAP, 1990). She holds a Master’s Degree in English Literature (UFPR, 2003), a PhD in Linguistics and English Literature (USP, 2003) and two Postdoctoral Degrees (USP 2010/2017) researching on Irish Literature.<br><br> As a creative writer, she has published more than 20 books&#58; <i>Rosa que está</i> (2020), <i>Fascinação</i> (2019), and <i>A peça intocada</i> (2017) are among her latest. Her works have been included in national and international anthologies (in the USA, Germany, France, Mexico, Uruguay, Argentina and Peru) and she has been granted several literary awards, such as the Prêmio Jabuti/ Poesia, in 2016. She is a retired professor from the Federal University of Paraná (UFPR) and currently researches on the work of Irish poet Mary O’Donnell, at the W.B. Yeats Chair of Irish Studies, University of São Paulo.<br><br>A selection of Luci Collin’s poems, in Spanish, is available here&#58; <a href="https://www.vallejoandcompany.com/12-1-poemas-de-luci-collin/">https://www.vallejoandcompany.com/12-1-poemas-de-luci-collin/</a>
-    talktitle:
+    talktitle: "Celebrating Joyce in Brazil: Studies, Translations, Critical Reception"
     talkabstract:
   - name: Yanna Hadatty
     img: /assets/img/Yanna Hadatty.png
