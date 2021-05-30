@@ -21,7 +21,7 @@ authors-list:
     img: /assets/img/Authors/Lina Meruane.jpg
     bio:
   - name: Daniela Tarazona
-    img: /assets/img/Authors/Daniela Tarazona.jpg
+    img: /assets/img/Authors/Daniela Tarazona.JPG
     bio:
 ---
 
