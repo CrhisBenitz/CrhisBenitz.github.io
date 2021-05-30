@@ -63,7 +63,7 @@ ref: ref2
   margin-left: -50vw;
   margin-right: -50vw;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: auto auto auto;
   grid-column-gap: 0px;
   grid-row-gap: 0px;
 }
