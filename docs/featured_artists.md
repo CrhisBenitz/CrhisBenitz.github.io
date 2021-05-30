@@ -56,12 +56,6 @@ ref: ref2
   margin-top: 1.25rem;
 }
 
-@media (max-width: 576px) {
-  .card {
-    width: 300px;
-    height: 450px;
-  }
-}
 </style>
 
 <div class="card">
