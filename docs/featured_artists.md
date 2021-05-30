@@ -55,6 +55,10 @@ ref: ref2
   font-style: italic;
   margin-top: 1.25rem;
 }
+.grid-container {
+  display: grid;
+  grid-gap: 0px 0px;
+}
 </style>
 
 <div class="grid-container">
