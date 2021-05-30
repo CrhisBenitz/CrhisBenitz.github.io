@@ -8,8 +8,8 @@ ref: ref2
 
 <style>
 .card {
-  width: 350px;
-  height: 525px;
+  width: 100%;
+  height: 100%;
   overflow: hidden;
   position: relative;
 }
@@ -73,7 +73,7 @@ ref: ref2
   <div class="grid-item">
   <div class="card">
       <div class="main-content">
-        <img src="https://images.unsplash.com/photo-1531259683007-016a7b628fc3?w=500&q=80&fit=max" alt="Batman">
+        <img src="{{ Luci Collin.jpg | relative_url }}" alt="Luci Collin">
       </div>
       <div class="overlay-content">
         <p>
@@ -86,7 +86,7 @@ ref: ref2
   <div class="grid-item">
   <div class="card">
       <div class="main-content">
-        <img src="https://images.unsplash.com/photo-1531259683007-016a7b628fc3?w=500&q=80&fit=max" alt="Batman">
+        <img src="{{ Carmen Boullosa.jpg | relative_url }}" alt="Carmen Boullosa">
       </div>
       <div class="overlay-content">
         <p>
