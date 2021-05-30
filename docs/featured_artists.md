@@ -6,7 +6,7 @@ lang: en
 ref: ref2
 ---
 
-<script src="js/js-style2/modernizr-custom.js"></script>
+<script src="js/modernizr-custom.js"></script>
 
 <body class="demo-2">
 	<div class="container">
