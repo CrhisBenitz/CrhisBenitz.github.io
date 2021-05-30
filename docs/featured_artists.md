@@ -57,7 +57,9 @@ ref: ref2
 }
 .grid-container {
   display: grid;
-  grid-gap: 0px 0px;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
 }
 </style>
 
