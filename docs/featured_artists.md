@@ -56,6 +56,12 @@ ref: ref2
   margin-top: 1.25rem;
 }
 .grid-container {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-column-gap: 0px;
