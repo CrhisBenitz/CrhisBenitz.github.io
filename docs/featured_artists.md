@@ -55,17 +55,40 @@ ref: ref2
   font-style: italic;
   margin-top: 1.25rem;
 }
-
 </style>
 
-<div class="card">
-    <div class="main-content">
-      <img src="https://images.unsplash.com/photo-1531259683007-016a7b628fc3?w=500&q=80&fit=max" alt="Batman">
-    </div>
-    <div class="overlay-content">
-      <p>
-        "Sometimes the truth isn't good enough, sometimes people deserve more. Sometimes people deserve to have their faith rewarded..."
-        <span>- The Dark Knight -</span>
-      </p>
+<div class="grid-container">
+  <div class="grid-item">
+  <div class="card">
+      <div class="main-content">
+        <img src="https://images.unsplash.com/photo-1531259683007-016a7b628fc3?w=500&q=80&fit=max" alt="Batman">
+      </div>
+      <div class="overlay-content">
+        <p>
+          "Sometimes the truth isn't good enough, sometimes people deserve more. Sometimes people deserve to have their faith rewarded..."
+          <span>- The Dark Knight -</span>
+        </p>
+      </div>
     </div>
   </div>
+  <div class="grid-item">
+  <div class="card">
+      <div class="main-content">
+        <img src="https://images.unsplash.com/photo-1531259683007-016a7b628fc3?w=500&q=80&fit=max" alt="Batman">
+      </div>
+      <div class="overlay-content">
+        <p>
+          "Sometimes the truth isn't good enough, sometimes people deserve more. Sometimes people deserve to have their faith rewarded..."
+          <span>- The Dark Knight -</span>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="grid-item">3</div>
+  <div class="grid-item">4</div>
+  <div class="grid-item">5</div>
+  <div class="grid-item">6</div>
+  <div class="grid-item">7</div>
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>
+</div>
