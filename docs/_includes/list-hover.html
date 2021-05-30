@@ -75,21 +75,58 @@
 
 <body>
 
-  <div class="grid-container">
+  <div class="list-circles">
     {% for item in include.items %}
-      <div class="grid-item">
-        <div class="card">
-        <div class="main-content">
-          <img src="{{ item.img | relative_url }}">
-          <div class="text-block">
-            <h4>{{ item.name }}</h4>
+
+        <div class="list-circles-item">
+
+        <div class="item-col1">
+        {% if item.img %}
+          {% if item.url %}
+            <a href="{{ item.url }}"><img src="{{ item.img | relative_url }}" class="item-img" /></a>
+          {% else %}
+            <img src="{{ item.img | relative_url }}" class="item-img" />
+          {% endif %}
+        {% endif %}
+        </div>
+
+        <div class="item-col2">
+        {% if item.name %}
+          <button class="collapsible" style="font-size: 24px; font-weight: bold;">{{ item.name }}</button>
+        {% if item.bio %}
+          <div class="content">
+          <div class="item-bio"><p>{{ item.bio }}</p></div>
           </div>
+        {% endif %}
+        {% endif %}
+        {% if item.talktitle %}
+          <button class="collapsible">{{ item.talktitle }}</button>
+          {% if item.talkabstract %}
+            <div class="content">
+            <div class="item-talkabstract"><p>{{ item.talkabstract }}</p></div>
+            </div>
+          {% endif %}
+        {% endif %}
         </div>
-        <div class="overlay-content">
-          <p>{{ item.bio }}</p>
         </div>
-      </div>
-      </div>
+    {% endfor %}
   </div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  });
+}
+</script>
 
 </body>
