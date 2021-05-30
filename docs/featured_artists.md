@@ -4,7 +4,7 @@ title: Featured Artists
 subtitle:
 lang: en
 ref: ref2
-speakers-list:
+authors-list:
   - name: Carmen Boullosa
     img: /assets/img/Authors/Carmen Boullosa.jpg
     bio: Prueba
