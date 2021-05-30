@@ -7,100 +7,119 @@ ref: ref2
 ---
 
 <style>
-.card {
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-  position: relative;
+#myImg {
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
 }
-.card .main-content {
-  width: 100%;
-  height: 100%;
+
+#myImg:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
 }
-.card .main-content img {
-  width: 100%;
-  height: 100%;
-}
-.card .overlay-content {
-  width: 100%;
-  height: 100%;
-  background-color: #ffeac9;
-  color: #080808;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  overflow: hidden;
-  position: absolute;
-  z-index: 1;
-  transition: 0.6s;
-  top: 0%;
-  left: 100%;
-  opacity: 0.8;
-}
-.card:hover .overlay-content {
-  /* left: 0; */
-  transform: translateX(-100%);
-}
-.card .overlay-content p {
-  text-align: center;
-  font-size: 1.4rem;
-  margin: 2rem;
-  letter-spacing: 1px;
-  line-height: 1.75rem;
-}
-.card .overlay-content p span {
+
+/* Modal Content (image) */
+.modal-content {
+  margin: auto;
   display: block;
-  letter-spacing: normal;
-  font-size: 1rem;
-  font-style: italic;
-  margin-top: 1.25rem;
+  width: 80%;
+  max-width: 700px;
 }
-.grid-container {
-  width: 100vw;
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  display: grid;
-  grid-template-columns: auto auto auto;
-  grid-column-gap: 0px;
-  grid-row-gap: 0px;
+
+/* Caption of Modal Image */
+#caption {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+  color: #ccc;
+  padding: 10px 0;
+  height: 150px;
+}
+
+/* Add Animation */
+.modal-content, #caption {  
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+@keyframes zoom {
+  from {transform: scale(0.1)}
+  to {transform: scale(1)}
+}
+
+/* The Close Button */
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+  .modal-content {
+    width: 100%;
+  }
 }
 </style>
 
-<div class="grid-container">
-  <div class="grid-item">
-  <div class="card">
-      <div class="main-content">
-        <img src="{{ /assets/img/Authors/Luci Collin.jpg | relative_url }}">
-      </div>
-      <div class="overlay-content">
-        <p>
-          "Sometimes the truth isn't good enough, sometimes people deserve more. Sometimes people deserve to have their faith rewarded..."
-          <span>- The Dark Knight -</span>
-        </p>
-      </div>
-    </div>
-  </div>
-  <div class="grid-item">
-  <div class="card">
-      <div class="main-content">
-        <img src="{{ /assets/img/Authors/Luci Collin.jpg | relative_url }}">
-      </div>
-      <div class="overlay-content">
-        <p>
-          "Sometimes the truth isn't good enough, sometimes people deserve more. Sometimes people deserve to have their faith rewarded..."
-          <span>- The Dark Knight -</span>
-        </p>
-      </div>
-    </div>
-  </div>
-  <div class="grid-item">3</div>
-  <div class="grid-item">4</div>
-  <div class="grid-item">5</div>
-  <div class="grid-item">6</div>
-  <div class="grid-item">7</div>
-  <div class="grid-item">8</div>
-  <div class="grid-item">9</div>
+<h2>Image Modal</h2>
+<p>In this example, we use CSS to create a modal (dialog box) that is hidden by default.</p>
+<p>We use JavaScript to trigger the modal and to display the current image inside the modal when it is clicked on. Also note that we use the value from the image's "alt" attribute as an image caption text inside the modal.</p>
+<p>Don't worry if you do not understand the code right away. When you are done with CSS, go to our JavaScript Tutorial to learn more.</p>
+
+<img id="myImg" src="img_lights.jpg" alt="Northern Lights, Norway" width="300" height="200">
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="img01">
+  <div id="caption"></div>
 </div>
+
+<script>
+// Get the modal
+var modal = document.getElementById('myModal');
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById('myImg');
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+img.onclick = function(){
+  modal.style.display = "block";
+  modalImg.src = this.src;
+  captionText.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+</script>
