@@ -1164,7 +1164,8 @@ pre {
   letter-spacing: 1px;
   line-height: 1.3rem;
   overflow-y: scroll;
-  height: 75%;
+  height: 70%;
+  margin-bottom: 1.5rem;
 }
 .card .overlay-content p span {
   display: block;
