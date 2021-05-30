@@ -1162,7 +1162,9 @@ pre {
   font-size: 1.2rem;
   margin: 1rem;
   letter-spacing: 1px;
-  line-height: 1rem;
+  line-height: 1.3rem;
+  overflow-y: scroll;
+  height: 75%;
 }
 .card .overlay-content p span {
   display: block;
