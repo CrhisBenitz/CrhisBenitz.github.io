@@ -1159,25 +1159,24 @@ pre {
 }
 .card .overlay-content p {
   text-align: justify;
-  font-size: 1.4rem;
-  margin: 2rem;
+  font-size: 1rem;
+  margin: 1rem;
   letter-spacing: 1px;
-  line-height: 1.75rem;
+  line-height: .9rem;
 }
 .card .overlay-content p span {
   display: block;
   letter-spacing: normal;
   font-size: 1rem;
-  font-style: italic;
-  margin-top: 1.25rem;
+  margin-top: 1rem;
 }
 .grid-container {
-  width: 90vw;
+  width: 96vw;
   position: relative;
   left: 50%;
   right: 50%;
-  margin-left: -45vw;
-  margin-right: -45vw;
+  margin-left: -48vw;
+  margin-right: -48vw;
   display: grid;
   grid-template-columns: auto auto;
   grid-column-gap: 0px;
