@@ -73,7 +73,7 @@ ref: ref2
   <div class="grid-item">
   <div class="card">
       <div class="main-content">
-        <img src="{{ Luci Collin.jpg | relative_url }}" alt="Luci Collin">
+        <img src="{{ /assets/img/Authors/Luci Collin.jpg | relative_url }}">
       </div>
       <div class="overlay-content">
         <p>
@@ -86,7 +86,7 @@ ref: ref2
   <div class="grid-item">
   <div class="card">
       <div class="main-content">
-        <img src="{{ Carmen Boullosa.jpg | relative_url }}" alt="Carmen Boullosa">
+        <img src="{{ /assets/img/Authors/Luci Collin.jpg | relative_url }}">
       </div>
       <div class="overlay-content">
         <p>
