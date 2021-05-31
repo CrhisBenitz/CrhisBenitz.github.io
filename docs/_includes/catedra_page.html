@@ -1,5 +1,9 @@
 <style>
 <link rel="stylesheet" href="{{ /assets/css/beautifuljekyll.css | relative_url }}">
+p.prj {margin-left: 50vw; margin-right: 10vw; text-align: justify;}
+p.prr {margin-left: 50vw; margin-right: 10vw; text-align: right}
+p.plj {margin-right: 50vw; margin-left: 10vw; text-align: justify;}
+p.plr {margin-right: 50vw; margin-left: 10vw; text-align: right;}
 </style>
 
 <body>
@@ -8,18 +12,14 @@
   <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -55vw; overflow: hidden;" class="grid-container">
     <div>
       <img style="float: left; margin-left: -5%; border: 8px solid #D1CF92; padding: 5px;" src="{{ page.img1 | relative_url }}">
-      <p style="margin-left: 50vw; margin-right: 10vw; text-align: justify;">
-        {{ page.text1 }}
-      </p>
+      {{ page.text1 }}
     </div>
 </div>
 
   <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-right: -55vw; overflow: hidden;" class="grid-container">
     <div>
       <img style="float: right; margin-right: -5%; border: 8px solid #D1CF92; padding: 5px;" src="{{ page.img2 | relative_url }}">
-      <p style="margin-right: 50vw; margin-left: 10vw; text-align: justify;">
-        {{ page.text2 }}
-      </p>
+      {{ page.text2 }}
     </div>
   </div>
 </body>
