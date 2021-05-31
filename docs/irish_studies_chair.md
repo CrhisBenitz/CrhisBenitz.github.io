@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Acerca de mí
-subtitle: About me en esp
-lang: es
-ref: aboutme
+title: Irish Studies Chair
+subtitle:
+lang: en
+ref: ref5
 ---
 
 Español:

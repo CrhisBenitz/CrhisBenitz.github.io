@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Artistas invitadas
+title: Escritoras
 subtitle:
 lang: es
 ref: ref2

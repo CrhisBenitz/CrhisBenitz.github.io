@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
-lang: en
-ref: aboutme
+title: Cátedra de Estudios Irlandeses
+subtitle:
+lang: es
+ref: ref5
 ---
 
 My name is Inigo Montoya. I have the following qualities:
