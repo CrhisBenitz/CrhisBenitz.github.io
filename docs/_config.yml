@@ -19,13 +19,15 @@ author: Some Person
 navbar-links:
   en:
     Keynote Speakers: "keynote_speakers"
-    Featured Artists: "featured_artists"
+    Authors: "authors"
+    Irish Studies Chair: "irish_studies_chair"
     Conference Programme: "conference_programme"
     Registration: "registration"
 
   es:
     Conferencistas magistrales: "conferencistas_magistrales"
-    Artistas invitadas: "artistas_invitadas"
+    Autoras: "autoras"
+    Cátedra de Estudios Irlandeses: "catedra_estudios_irlandeses"
     Programa del congreso: "programa_congreso"
     Inscripción: "inscripcion"
 
