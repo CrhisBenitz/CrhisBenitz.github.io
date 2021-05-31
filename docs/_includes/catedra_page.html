@@ -3,23 +3,24 @@
 </style>
 
 <body>
-  <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -55vw; margin-right: -30vw;" class="grid-container">
+  <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -55vw;" class="grid-container">
+
     <div>
       <p style="float: left; margin-left: -5%; border: 8px solid #D1CF92; padding: 5px;">
         <img src="{{ page.img1 | relative_url }}">
       </p>
-      <p style="padding-left: 30%;">
+      <p style="padding-left: 50%;text-align: justify;">
         {{ page.text1 }}
       </p>
     </div>
 </div>
 
-  <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -30vw; margin-right: -55vw;" class="grid-container">
+  <div style="width: 100vw; position: relative; left: 50%; right: 50%; margin-right: -55vw;" class="grid-container">
     <div>
       <p style="float: right; margin-right: -5%; border: 8px solid #D1CF92; padding: 5px;">
         <img src="{{ page.img2 | relative_url }}">
       </p>
-      <p style="padding-left: 30%;">
+      <p style="padding-right: 50%;text-align: justify;">
         {{ page.text2 }}
       </p>
     </div>
