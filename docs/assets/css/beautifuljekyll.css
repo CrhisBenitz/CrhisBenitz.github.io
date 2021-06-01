@@ -156,12 +156,12 @@ img {
   background-color: {{ site.navbar-text-col}};
 }
 
-.navbar-custom .navbar-brand-logo,
+/* .navbar-custom .navbar-brand-logo,
 .navbar-custom.top-nav-short .navbar-brand-logo,
 .navbar-custom.top-nav-short-permanent .navbar-brand-logo {
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
-}
+} */
 
 .navbar-custom .navbar-brand-logo img {
   -webkit-transition: height .5s ease-in-out;
