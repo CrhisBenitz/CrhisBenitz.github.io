@@ -6,34 +6,7 @@ lang: en
 ref: ref3
 ---
 
-<style>
-table {
-  width: 100%;
-  max-width: 70vw;
-}
-table tr:hover {
-  background-color: {{site.hover-col}};
-}
-table th, table td {
-  padding: 0.5rem 1rem;
-}
-table th {
-  font-weight: normal;
-  border-top: thin dotted #ccc;
-}
-table td {
-  font-weight: bold;
-  line-height: 1.4;
-  border-radius: 0.2rem;
-  transition: opacity 0.3s ease;
-}
-table td > span {
-  font-size: 0.8em;
-  font-weight: normal;
-  display: block;
-  width: 100%;
-}
-</style>
+
 
   <body>
   <table>
