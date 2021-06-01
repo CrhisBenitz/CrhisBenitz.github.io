@@ -819,8 +819,12 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 
 
 table {
-  width: 100%;
-  max-width: 70vw;
+  width: 70vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -35vw;
+  margin-right: -35vw;
 }
 
 table tr:nth-child(2n) {
@@ -845,6 +849,7 @@ table tr th {
 
 table th {
   font-weight: normal;
+  padding-left: 5px;
 }
 
 table tr td {
