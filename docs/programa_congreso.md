@@ -9,7 +9,7 @@ ref: ref3
 <body>
 <br>
 <br>
-<h3>Jueves 10 de junio<br></h3>
+<h3>Jueves 10 de junio<br><br></h3>
   <table>
     <tr>
       <th>10:00-10:15</th>

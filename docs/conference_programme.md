@@ -9,7 +9,7 @@ ref: ref3
 <body>
 <br>
 <br>
-<h3>Thursday 10, June<br></h3>
+<h3>Thursday 10, June<br><br></h3>
   <table>
     <tr>
       <th>10:00-10:15</th>
