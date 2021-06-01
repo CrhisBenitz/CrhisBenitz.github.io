@@ -59,23 +59,34 @@ table td > span {
   <body>
   <table>
     <tr>
-      <th>10:15</th>
-      <td colspan="4" rowspan="2" class="stage-saturn">Welcome</td>
-    </tr>
-    <tr>
-      <th>08:30</th>
-    </tr>
-    <tr>
-      <th>09:00</th>
-      <td colspan="4" class="stage-earth">Speaker One <span>Earth Stage</span></td>
-    </tr>
-    <tr>
-      <th>09:30</th>
-      <td colspan="4" class="stage-earth">Speaker Two <span>Earth Stage</span></td>
-    </tr>
-    <tr>
       <th>10:00</th>
-      <td colspan="4" class="stage-earth">Speaker Three <span>Earth Stage</span></td>
+      <td colspan="4" rowspan="1" class="stage-saturn">Opening Words</td>
+    </tr>
+    <tr>
+      <th>10:15</th>
+      <td colspan="4" rowspan="1" class="stage-saturn">Keynote Lecture 1<span>Prof. James Ramey, UAM-Cuajimalpa</span></td>
+    </tr>
+    <tr>
+      <th>10:40</th>
+      <td colspan="4" class="stage-earth">Q&A</td>
+    </tr>
+    <tr>
+      <th>10:50</th>
+      <td colspan="4" class="stage-earth">Five-minute break</td>
+    </tr>
+    <tr>
+      <th>10:55</th>
+      <td colspan="4" class="stage-earth">Ceremony: The Eavan Boland-Anne Enright Irish Studies Chair, at UNAM
+      <span>
+      With the distinguished participation of:<br><br>
+      -Dr. Mary Frances Rodríguez Van Gort, Dean of The School of Philosophy and Literature, UNAM.<br>
+      -Dr. Nair Anaya Ferreira, Academic Secretary of The School of Philosophy and Literature, UNAM.<br>
+      -Ms Maeve von Heynitz, Irish Ambassador in Mexico.<br>
+      -Dr. Laura Zuntini Izarra, Head of the WB Yeats Irish Studies Chair, University of São Paulo.<br>
+      -Ms Eavan Casey, Eavan Boland Estate,<br>
+      and<br>
+      -Anne Enright, featured Irish writer.
+      </span></td>
     </tr>
     <tr>
       <th>10:30</th>

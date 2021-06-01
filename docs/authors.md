@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Featured Artists
+title: Authors
 subtitle:
 lang: en
 ref: ref2
