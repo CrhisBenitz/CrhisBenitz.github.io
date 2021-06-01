@@ -24,7 +24,7 @@ particlesJS('particles-js',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://github.com/CrhisBenitz/congresoK/blob/master/docs/assets/img/particles-icon.png",
+          "src": "https://github.com/CrhisBenitz/congresoK/blob/master/docs/assets/img/particles-icon.png?raw=true",
           "width": 3,
           "height": 3
         }
