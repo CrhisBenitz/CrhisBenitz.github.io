@@ -76,7 +76,7 @@ ref: ref3
   <tr>
     <th>10:05-10:30</th>
     <td colspan="4" rowspan="1">Keynote Lecture 2:<span>
-    “The Avant-garde Movements in 1922, annus mirabilis in Latin America and Europe”<br>
+    “The Avant-garde Movements in 1922, <i>annus mirabilis</i> in Latin America and Europe”<br>
     Prof. Yanna Hadatty, UNAM</span></td>
   </tr>
   <tr>
