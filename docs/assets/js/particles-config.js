@@ -1,7 +1,7 @@
 /* particle.js configuration json */
 
 particlesJS('particles-js',
-  
+
   {
     "particles": {
       "number": {
@@ -15,7 +15,7 @@ particlesJS('particles-js',
         "value": "#000000"
       },
       "shape": {
-        "type": "circle",
+        "type": "image",
         "stroke": {
           "width": 0,
           "color": "#000000"
@@ -24,9 +24,9 @@ particlesJS('particles-js',
           "nb_sides": 5
         },
         "image": {
-          "src": "img/github.svg",
-          "width": 100,
-          "height": 100
+          "src": "/congresoK/assets/img/particles-icon.png",
+          "width": 3px,
+          "height": 3px
         }
       },
       "opacity": {
