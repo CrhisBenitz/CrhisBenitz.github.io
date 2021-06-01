@@ -822,7 +822,12 @@ table {
   width: 100%;
   max-width: 70vw;
 }
-table tr:hover {
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+table tr:hover, tr:nth-child(2n):hover {
   background-color: {{site.hover-col}};
 }
 table tr {
@@ -831,10 +836,6 @@ table tr {
   margin: 0;
   padding: 0;
 }
-table tr:nth-child(2n) {
-  background-color: #f8f8f8;
-}
-
 table tr th {
   border: 1px solid #cccccc;
   text-align: left;
