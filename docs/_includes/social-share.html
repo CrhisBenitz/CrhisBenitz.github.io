@@ -7,8 +7,7 @@
 {% endfor %}
 
 {% if any-share-links %}
-<section id = "social-share-section">
-  <span class="sr-only">Share: </span>
+<section id = "social-share-section" style="width: 70vw; position: relative; left: 50%; right: 50%; margin-left: 65%;">
 
   {% if site.share-links-active.twitter %}
     <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}"

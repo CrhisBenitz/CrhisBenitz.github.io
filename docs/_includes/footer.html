@@ -1,41 +1,26 @@
 <footer>
-  <div class="container-md beautiful-jekyll-footer">
-    <div class="row">
-      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
-      {% include social-networks-links.html %}
-      {% if page.footer-extra %}
-        <div class="footer-custom-content">
-          {% for file in page.footer-extra %}
-            {% include {{ file }} %}
-          {% endfor %}
-        </div>
-      {% endif %}
-      <p class="copyright text-muted">
-      {% if site.author %}
-        {{ site.author }}
-        &nbsp;&bull;&nbsp;
-      {% endif %}
-      {{ site.time | date: '%Y' }}
+  <div class="container-fluid">
+	<div class="row">
+	  <div class="col-sm-12 offset-sm-0 col-lg-8" style="padding-left: 5vw;">
 
-      {% if site.url-pretty %}
-        &nbsp;&bull;&nbsp;
-        <span class="author-site">
-          <a href="{% if site.url-canonical %}{{ site.url-canonical }}{% else %}{{ '' | absolute_url }}{% endif %}">{{ site.url-pretty }}</a>
-        </span>
-      {% endif %}
+		<img style="" src="https://lh3.googleusercontent.com/proxy/ity17kiHlmNYodLIi63aetMhvpPDhkyndyRIgBNnRtw2l0olvKb0wtU9t1MSEJWeWtlVXozir1fsibkfTLTzbcE04fQOWRrdNWc5qTvWK2OdSAIi_A">
 
-      {% if site.matomo %}
-        {% if site.matomo.opt-out %}
-          &nbsp;&bull;&nbsp;
-          <a href="http://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank" class="text_muted">Do-not-Track</a>
-        {% endif %}
-      {% endif%}
-      </p>
-      {% unless site.remove-ads %}<p class="theme-by text-muted">
-        Powered by
-        <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
-      </p>{% endunless %}
-      </div>
-    </div>
+	  <img style="max-height:10vw" src="https://globalirish.georgetown.edu/wp-content/uploads/sites/20/2020/11/Embassy-logo-1-6.png"><img style="" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Escudo-UNAM-escalable.svg"></div>
+
+	  <div class="col-sm-12 col-lg-4" style="padding-top: 30px;">
+		{{ site.GDcredits[page.lang] }}: Luis Bermejillo<br>
+    {{ site.WDcredits[page.lang] }}: Crhistian Benitez Abarca
+	  </div>
+	</div>
   </div>
+  <p class="copyright text-muted">
+  {% if site.author %}
+    {{ site.author[page.lang] }}
+    &nbsp;&bull;&nbsp;
+  {% endif %}
+  {{ site.time | date: '%Y' }}</p>
+  <p class="theme-by text-muted">
+    {{ site.BJcredits[page.lang] }}
+    <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
+  </p>
 </footer>

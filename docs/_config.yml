@@ -12,7 +12,19 @@ title:
 #url: "congresoK/"
 
 # Your name to show in the footer
-author: Some Person
+author:
+  en: Joyce in Latin America
+  es: Joyce en Latinoamérica
+
+GDcredits:
+  es: Diseño gráfico por
+  en: Graphic Design by
+WDcredits:
+  es: Diseño web por
+  en: Web Design by
+BJcredits:
+  es: Tema basado en
+  en: Theme based in
 
 # --- List of links in the navigation bar --- #
 
@@ -50,12 +62,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
+  #email: "someone@example.com"
+  #facebook: deanattali
+  #github: daattali
   #twitter: daattali
   #patreon: DeanAttali
-  youtube: c/daattali
+  #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -84,7 +96,6 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  instagram: true
   #linkedin: true
   vk: false
 
