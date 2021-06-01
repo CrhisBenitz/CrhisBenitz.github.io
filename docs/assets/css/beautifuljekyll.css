@@ -153,11 +153,12 @@ img {
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
   transition: padding .5s ease-in-out;
+  background-color: {{ site.navbar-text-col}};
 }
 
 .navbar-custom .navbar-brand-logo:focus,
 .navbar-custom .navbar-brand-logo:hover {
-  background-color: initial;
+  background-color: {{ site.hover-col}};
 }
 
 .navbar-custom .navbar-brand-logo,
