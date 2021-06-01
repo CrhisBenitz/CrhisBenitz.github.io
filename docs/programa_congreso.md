@@ -17,7 +17,7 @@ ref: ref3
     </tr>
     <tr>
       <th>10:15-10:40</th>
-      <td colspan="4" rowspan="1">Conferencia magistra 1<span>
+      <td colspan="4" rowspan="1">Conferencia magistal 1<span>
       “Joyce, Borges, y el posthumanismo parasitario”<br>
       Dr. James Ramey, UAM-Cuajimalpa</span></td>
     </tr>
@@ -79,7 +79,7 @@ ref: ref3
   </tr>
   <tr>
     <th>10:05-10:30</th>
-    <td colspan="4" rowspan="1">Conferencia magistra 2:<span>
+    <td colspan="4" rowspan="1">Conferencia magistal 2:<span>
     “Las vanguardias en 1922, annus mirabilis en Latinoamérica y Europa”<br>
     Dra. Yanna Hadatty, UNAM</span></td>
   </tr>
@@ -97,7 +97,7 @@ ref: ref3
   </tr>
   <tr>
     <th>10:50-11:15</th>
-    <td rowspan="1">Conferencia magistra 3:<span>
+    <td rowspan="1">Conferencia magistal 3:<span>
     “Cartografías de las trayectorias joyceanas en Mexico"<br>
     Dr. Brian Price, Brigham Young University
     </span></td>
@@ -116,7 +116,7 @@ ref: ref3
   </tr>
   <tr>
     <th>11:35-12:00</th>
-    <td rowspan="1">Conferencia magistra 4:<span>
+    <td rowspan="1">Conferencia magistal 4:<span>
     "Celebrando a Joyce en Brasil: estudios, traducciones, recepción crítica"<br>
     Dra. Luci Collin, Universidad Federal de Paraná, e investigadora de la Cátedra W.B. Yeats de Estudios Irlandeses, Universidad de São Paulo
     </span></td>
