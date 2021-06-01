@@ -41,7 +41,7 @@
         {% for cpage in pages %}
           {% if {{ page.lang }} != {{ cpage.lang }} %}
           <li class="nav-item">
-            <a class="nav-link" href="{{ cpage.url | relative_url}}" class="{{ cpage.lang }}">{{ page.lang }}</a>
+            <a class="nav-link" href="{{ cpage.url | relative_url}}" class="{{ cpage.lang }}">{{ cpage.lang }}</a>
           </li>
         {% endfor %}
     </ul>
