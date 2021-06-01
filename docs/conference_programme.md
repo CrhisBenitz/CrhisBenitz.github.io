@@ -11,8 +11,8 @@ table {
   width: 100%;
   max-width: 70vw;
 }
-table tr:nth-child(even) th,td {
-  color: #ccc;
+table tr:hover {
+  background-color: {{site.hover-col}};
 }
 table th, table td {
   padding: 0.5rem 1rem;
@@ -22,7 +22,6 @@ table th {
   border-top: thin dotted #ccc;
 }
 table td {
-  font-size: 0.8rem;
   font-weight: bold;
   line-height: 1.4;
   border-radius: 0.2rem;
