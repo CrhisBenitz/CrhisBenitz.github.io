@@ -155,6 +155,11 @@ img {
   transition: padding .5s ease-in-out;
 }
 
+.navbar-custom .navbar-brand-logo:focus,
+.navbar-custom .navbar-brand-logo:hover {
+  background-color: initial;
+}
+
 .navbar-custom .navbar-brand-logo,
 .navbar-custom.top-nav-short .navbar-brand-logo,
 .navbar-custom.top-nav-short-permanent .navbar-brand-logo {
