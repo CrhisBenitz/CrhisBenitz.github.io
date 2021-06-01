@@ -5,7 +5,7 @@ particlesJS('particles-js',
   {
     "particles": {
       "number": {
-        "value": 80,
+        "value": 40,
         "density": {
           "enable": true,
           "value_area": 1600
@@ -15,7 +15,7 @@ particlesJS('particles-js',
         "value": "#000000"
       },
       "shape": {
-        "type": "image",
+        "type": "circle",
         "stroke": {
           "width": 0,
           "color": "#000000"
@@ -25,8 +25,8 @@ particlesJS('particles-js',
         },
         "image": {
           "src": "/congresoK/assets/img/particles-icon.png",
-          "width": 3px,
-          "height": 3px
+          "width": 3,
+          "height": 3
         }
       },
       "opacity": {
@@ -45,7 +45,7 @@ particlesJS('particles-js',
         "anim": {
           "enable": false,
           "speed": 40,
-          "size_min": 0.1,
+          "size_min": 1,
           "sync": false
         }
       },
