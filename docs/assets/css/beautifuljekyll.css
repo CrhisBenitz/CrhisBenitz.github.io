@@ -218,6 +218,11 @@ img {
     padding-bottom: 1.25rem;
   }
 
+  .navbar-custom .navbar-brand-logo img:hover,
+  .navbar-custom .navbar-brand-logo img:focus{
+    background-color: {{ site.hover-col | default: "#0085A1" }};
+  }
+  
   .navbar-custom .navbar-brand-logo {
     padding-top: 0;
     padding-bottom: 0;
@@ -307,6 +312,11 @@ img {
 .navbar-custom .navbar-nav .dropdown-menu .dropdown-item:hover,
 .navbar-custom .navbar-nav .dropdown-menu .dropdown-item:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
+}
+
+.navbar-custom .navbar-brand-logo {
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 .navbar-custom .navbar-brand-logo img:hover,
