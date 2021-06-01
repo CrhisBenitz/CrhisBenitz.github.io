@@ -76,7 +76,7 @@ table td > span {
     </tr>
     <tr>
       <th>10:55</th>
-      <td colspan="4" class="stage-earth">Ceremony: The Eavan Boland-Anne Enright Irish Studies Chair, at UNAM
+      <td rowspan="3" class="stage-earth">Ceremony: The Eavan Boland-Anne Enright Irish Studies Chair, at UNAM
       <span>
       With the distinguished participation of:<br><br>
       -Dr. Mary Frances Rodríguez Van Gort, Dean of The School of Philosophy and Literature, UNAM.<br>
@@ -89,85 +89,29 @@ table td > span {
       </span></td>
     </tr>
     <tr>
-      <th>10:30</th>
-      <td colspan="4" class="stage-earth">Speaker Four <span>Earth Stage</span></td>
-    </tr>
-    <tr>
-      <th>11:00</th>
-      <td rowspan="5" class="stage-mercury">Speaker Five <span>Mercury Stage</span></td>
-      <td rowspan="5" class="stage-venus">Speaker Six <span>Venus Stage</span></td>
-      <td rowspan="5" class="stage-mars">Speaker Seven <span>Mars Stage</span></td>
-      <td rowspan="2" class="stage-saturn">Lunch</td>
-    </tr>
-    <tr>
-      <th>11:30</th>
+      <th>11:40</th>
+      <td rowspan="1" class="stage-earth">Lecture by Anne Enright</td>
     </tr>
     <tr>
       <th>12:00</th>
-      <td rowspan="3" class="stage-saturn">Break</td>
+      <td rowspan="1" class="stage-saturn">Q&A</td>
     </tr>
     <tr>
-      <th>12:30</th>
+      <th>12:10</th>
+      <td rowspan="1" class="stage-saturn">Five-minute break</td>
     </tr>
     <tr>
-      <th>13:00</th>
+      <th>12:15</th>
+      <td rowspan="1" class="stage-saturn">Roundtable 1: Irish and Latin American Artists in Conversation<br>
+      <span>Anne Enright -Ireland<br>
+      Mary Costello-Ireland<br>
+      Daniela Tarazona-Mexico<br>
+      Carmen Boullosa-Mexico<br>
+      Luci Collin-Brazil<br>
+      Lina Meruane-Chile</span></td>
     </tr>
     <tr>
-      <th>13:30</th>
-      <td colspan="4" rowspan="2" class="stage-earth">Speaker Eight <span>Earth Stage</span></td>
-    </tr>
-    <tr>
-      <th>14:00</th>
-    </tr>
-    <tr>
-      <th>14:30</th>
-      <td colspan="4" rowspan="8" class="stage-saturn">Break</td>
-    </tr>
-    <tr>
-      <th>15:00</th>
-    </tr>
-    <tr>
-      <th>15:30</th>
-    </tr>
-    <tr>
-      <th>16:00</th>
-    </tr>
-    <tr>
-      <th>16:30</th>
-    </tr>
-    <tr>
-      <th>17:00</th>
-    </tr>
-    <tr>
-      <th>17:30</th>
-    </tr>
-    <tr>
-      <th>18:00</th>
-    </tr>
-    <tr>
-      <th>18:30</th>
-      <td colspan="4" class="stage-earth">Speaker Nine <span>Earth Stage</span></td>
-    </tr>
-    <tr>
-      <th>19:00</th>
-      <td colspan="2" rowspan="2" class="stage-earth">Speaker Ten <span>Earth Stage</span></td>
-      <td colspan="2" rowspan="2" class="stage-jupiter">Speaker Eleven <span>Jupiter Stage</span></td>
-    </tr>
-    <tr>
-      <th>19:30</th>
-    </tr>
-    <tr>
-      <th>20:00</th>
-      <td colspan="2" class="stage-mars">Speaker Twelve <span>Mars Stage</span></td>
-      <td class="stage-jupiter">Speaker Thirteen <span>Jupiter Stage</span></td>
-      <td class="stage-jupiter">Speaker Fourteen <span>Jupiter Stage</span></td>
-    </tr>
-    <tr>
-      <th>20:30</th>
-      <td colspan="4" rowspan="2" class="stage-saturn">Drinks</td>
-    </tr>
-    <tr>
-      <th>21:00</th>
+      <th>13:15</th>
     </tr>
 </table>
 
