@@ -156,11 +156,6 @@ img {
   background-color: {{ site.navbar-text-col}};
 }
 
-.navbar-custom .navbar-brand-logo:focus,
-.navbar-custom .navbar-brand-logo:hover {
-  background-color: {{ site.hover-col}};
-}
-
 .navbar-custom .navbar-brand-logo,
 .navbar-custom.top-nav-short .navbar-brand-logo,
 .navbar-custom.top-nav-short-permanent .navbar-brand-logo {
@@ -309,6 +304,8 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .navbar-nav .nav-link:hover,
 .navbar-custom .navbar-nav .nav-link:focus,
+.navbar-custom .navbar-brand-logo img:hover,
+.navbar-custom .navbar-brand-logo img:focus,
 .navbar-custom .navbar-nav .dropdown-menu .dropdown-item:hover,
 .navbar-custom .navbar-nav .dropdown-menu .dropdown-item:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
