@@ -76,7 +76,7 @@ table td > span {
     </tr>
     <tr>
       <th>10:55</th>
-      <td rowspan="3" class="stage-earth">Ceremony: The Eavan Boland-Anne Enright Irish Studies Chair, at UNAM
+      <td rowspan="1" class="stage-earth">Ceremony: The Eavan Boland-Anne Enright Irish Studies Chair, at UNAM
       <span>
       With the distinguished participation of:<br><br>
       -Dr. Mary Frances Rodríguez Van Gort, Dean of The School of Philosophy and Literature, UNAM.<br>
@@ -102,7 +102,7 @@ table td > span {
     </tr>
     <tr>
       <th>12:15</th>
-      <td rowspan="1" class="stage-saturn">Roundtable 1: Irish and Latin American Artists in Conversation<br>
+      <td rowspan="2" class="stage-saturn">Roundtable 1: Irish and Latin American Artists in Conversation<br>
       <span>Anne Enright -Ireland<br>
       Mary Costello-Ireland<br>
       Daniela Tarazona-Mexico<br>
