@@ -7,7 +7,7 @@
 {% endfor %}
 
 {% if any-share-links %}
-<section id = "social-share-section" style="width: 70vw; position: relative; left: 90vw; right: 10vw; margin-left: 35vw;margin-right: 35vw; overflow: hidden;">
+<section id = "social-share-section" style="width: 70vw; position: relative; left: 90vw; right: 10vw; margin-left: -35vw;margin-right: -35vw; overflow: hidden;">
 
   {% if site.share-links-active.twitter %}
     <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}"
