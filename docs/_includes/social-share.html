@@ -7,11 +7,11 @@
 {% endfor %}
 
 {% if any-share-links %}
-<section id = "social-share-section" style="width: 70vw; position: relative; left: 90vw; right: 10vw; margin-left: -35vw;margin-right: -35vw; overflow: hidden;">
+<section id = "social-share-section" style="width: 70vw; position: relative; left: 50%; right: 50%; margin-left: -35vw;margin-right: -35vw; overflow: hidden;">
 
   {% if site.share-links-active.twitter %}
     <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}"
-      class="btn btn-social-icon btn-twitter" title="Share on Twitter">
+      class="btn btn-social-icon btn-twitter" title="Share on Twitter" style="margin-left: calc(max(100% - 85px,55vw));">
       <span class="fab fa-fw fa-twitter" aria-hidden="true"></span>
       <span class="sr-only">Twitter</span>
     </a>
