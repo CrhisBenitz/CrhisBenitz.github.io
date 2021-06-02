@@ -31,7 +31,7 @@ ref: ref3
     </tr>
     <tr>
       <th>10:55-11:40</th>
-      <td rowspan="1">Ceremony: Ceremonia de instalación de la Cátedra Extraordinaria Eavan Boland- Anne Enright de Estudios Irlandeses, UNAM
+      <td rowspan="1">Ceremonia: Cátedra Extraordinaria Eavan Boland-Anne Enright de Estudios Irlandeses, UNAM
       <span>
       Con la distinguida participación de:<br><br>
       -Dra. Mary Frances Rodríguez Van Gort, Directora de la Facultad de Filosofía y Letras, UNAM<br>
