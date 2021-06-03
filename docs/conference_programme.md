@@ -38,7 +38,7 @@ ref: ref3
       -Dr. Nair Anaya Ferreira, Academic Secretary of The School of Philosophy and Literature, UNAM.<br>
       -Ms Maeve von Heynitz, Irish Ambassador in Mexico.<br>
       -Dr. Laura Zuntini Izarra, Head of the W.B. Yeats Irish Studies Chair, University of São Paulo.<br>
-      -Ms Eavan Casey, Eavan Boland Estate,<br>
+      -Ms Sarah Casey, Eavan Boland Estate,<br>
       and<br>
       -Anne Enright, featured Irish author.
       </span></td>
