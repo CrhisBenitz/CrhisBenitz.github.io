@@ -62,7 +62,7 @@ ref: ref3
       Mary Costello-Ireland<br>
       Daniela Tarazona-Mexico<br>
       Carmen Boullosa-Mexico<br>
-      Luci Collin-Brazil<br>
+      Luci Collin-Brasil<br>
       Lina Meruane-Chile</span></td>
     </tr>
 </table>
