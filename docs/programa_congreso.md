@@ -36,9 +36,9 @@ ref: ref3
       Con la distinguida participación de:<br><br>
       -Dra. Mary Frances Rodríguez Van Gort, Directora de la Facultad de Filosofía y Letras, UNAM<br>
       -Dra. Nair Anaya Ferreira, Secretaria Académica de la Facultad de Filosofía y Letras, UNAM<br>
-      -Sra. Maeve von Heynitz, Embajadora de Irlanda en México<br>
+      -S. E. Maeve von Heynitz, Embajadora de Irlanda en México<br>
       -Dra. Laura Zuntini Izarra, Responsable de la Cátedra W.B. Yeats de Estudios Irlandeses, Universidad de São Paulo<br>
-      -Sra. Sarah Casey, en representación del Eavan Boland Estate,<br>
+      -Sarah Casey, en representación del Eavan Boland Estate,<br>
       y<br>
       -Anne Enright, escritora invitada, figura emblemática de la Cátedra y conferencista magistral
       </span></td>

@@ -36,7 +36,7 @@ ref: ref3
       With the distinguished participation of:<br><br>
       -Dr. Mary Frances Rodríguez Van Gort, Dean of The School of Philosophy and Literature, UNAM.<br>
       -Dr. Nair Anaya Ferreira, Academic Secretary of The School of Philosophy and Literature, UNAM.<br>
-      -Ms Maeve von Heynitz, Irish Ambassador in Mexico.<br>
+      -H. E. Maeve von Heynitz, Irish Ambassador in Mexico.<br>
       -Dr. Laura Zuntini Izarra, Head of the W.B. Yeats Irish Studies Chair, University of São Paulo.<br>
       -Ms Sarah Casey, Eavan Boland Estate,<br>
       and<br>
