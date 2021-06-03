@@ -9,7 +9,7 @@ ref: ref3
 <body>
 <br>
 <br>
-<h3>Thursday 10, June<br><br></h3>
+<h3>Thursday 10, June / Mexico City Time Zone (GMT-5)<br><br></h3>
   <table>
     <tr>
       <th>10:00-10:15</th>
@@ -66,8 +66,10 @@ ref: ref3
       Lina Meruane-Chile</span></td>
     </tr>
 </table>
+
 <br><br>
-<h3>Friday 11, June<br><br></h3>
+<h3>Friday 11, June / Mexico City Time Zone (GMT-5)<br><br></h3>
+
 <table>
   <tr>
     <th>10:00-10:05</th>

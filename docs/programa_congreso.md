@@ -9,7 +9,7 @@ ref: ref3
 <body>
 <br>
 <br>
-<h3>Jueves 10 de junio<br><br></h3>
+<h3>Jueves 10 de junio / Zona horaria de la Ciudad de México (GMT-5)<br><br></h3>
   <table>
     <tr>
       <th>10:00-10:15</th>
@@ -37,7 +37,7 @@ ref: ref3
       -Dra. Mary Frances Rodríguez Van Gort, Directora de la Facultad de Filosofía y Letras, UNAM<br>
       -Dra. Nair Anaya Ferreira, Secretaria Académica de la Facultad de Filosofía y Letras, UNAM<br>
       -Sra. Maeve von Heynitz, Embajadora de Irlanda en México<br>
-      -Dra. Laura Zuntini Izarra, Responsible de la Cátedra W.B. Yeats de Estudios Irlandeses, Universidad de São Paulo<br>
+      -Dra. Laura Zuntini Izarra, Responsable de la Cátedra W.B. Yeats de Estudios Irlandeses, Universidad de São Paulo<br>
       -Sra. Eavan Casey, en representación del Eavan Boland Estate,<br>
       y<br>
       -Anne Enright, escritora invitada, figura emblemática de la Cátedra y conferencista magistral
@@ -69,7 +69,7 @@ ref: ref3
 
 
 <br><br>
-<h3>Viernes 11 de junio<br><br></h3>
+<h3>Viernes 11 de junio / Zona horaria de la Ciudad de México (GMT-5)<br><br></h3>
 
 
 <table>
