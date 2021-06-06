@@ -1102,19 +1102,19 @@ pre {
 }
 
 .list-circles-item .item-col2 .item-bio {
-  font-size: 1.125rem;
+  font-size: 1.12rem;
 }
 
 .list-circles-item .item-col2 .item-talkabstract {
-  font-size: font-size: max(100%,1.25vw);
+  font-size: 1.2rem;
 }
 
 .list-circles-item .item-col2 .item-name {
-  font-size: max(100%,1.8vw);
+  font-size: 1.7rem;
 }
 
 .list-circles-item .item-col2 .item-talktitle {
-  font-size: max(100%,1.4vw);
+  font-size: 1.35rem;
 }
 
 .list-circles-item .item-links {
@@ -1143,7 +1143,7 @@ pre {
   border: none;
   text-align: left;
   outline: none;
-  font-size: max(85%,1.4vw);
+  font-size: 1.2rem;
   /* font-weight: bold; */
 }
 
