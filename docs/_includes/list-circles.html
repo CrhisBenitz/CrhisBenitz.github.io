@@ -20,10 +20,14 @@
 
         <div class="item-col2">
         {% if item.name %}
-          <button class="collapsible" style="font-size: max(100%,1.8vw); font-weight: bold;">{{ item.name }}</button>
+          <button class="collapsible" style="font-size: max(100%,1.8vw); font-weight: bold;" id="{{ item.name }}">{{ item.name }}</button>
         {% if item.bio %}
           <div class="content">
-          <div class="item-bio"><p>{{ item.bio }}</p></div>
+          <div class="item-bio"><p>{{ item.bio }}</p>
+            <p style="text-align: center;background: #555;width: fit-content;margin-left: 98%;">
+              <a href="#{{ item.name }}" style="font-size:1.4rem; font-weight: bold;text-decoration: none;">&nbsp;−&nbsp;</a>
+            </p>
+          </div>
           </div>
         {% endif %}
         {% endif %}
@@ -31,7 +35,11 @@
           <button class="collapsible" style="font-size: max(100%,1.4vw);">{{ item.talktitle }}</button>
           {% if item.talkabstract %}
             <div class="content">
-            <div class="item-talkabstract"><p>{{ item.talkabstract }}</p></div>
+            <div class="item-talkabstract"><p>{{ item.talkabstract }}</p>
+              <p style="text-align: center;background: #555;width: fit-content;margin-left: 98%;">
+                <a href="#{{ item.name }}" style="font-size:1.4rem; font-weight: bold;text-decoration: none;">&nbsp;−&nbsp;</a>
+              </p>
+            </div>
             </div>
           {% endif %}
         {% endif %}
