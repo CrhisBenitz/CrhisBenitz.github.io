@@ -1067,7 +1067,7 @@ pre {
   width: 100%;
   vertical-align: top;
   margin: 0;
-  padding: 20px;
+  padding: 1.3vw;
   float: left;
 }
 
@@ -1078,7 +1078,7 @@ pre {
 .list-circles-item .item-col1 {
   width: 35%;
   float: left;
-  padding: 10px;
+  padding: .5vw;
   vertical-align: middle;
   /* border: 2px solid red; */
 }
@@ -1086,7 +1086,8 @@ pre {
 .list-circles-item .item-col2 {
   width: 65%;
   margin-left: 35%;
-  padding: 40px;
+  padding-top: 3vw;
+  padding-left: .5vw;
   vertical-align: middle;
   /* border: 2px solid blue; */
 }
@@ -1097,7 +1098,7 @@ pre {
 /*-webkit-border-radius: 50%;
   -moz-border-radius: 50%;*/
   border-radius: 50%;
-  border: 8px solid #D1CF92;
+  border: .6vw solid #D1CF92;
 }
 
 .list-circles-item .item-col2 .item-bio {
@@ -1105,15 +1106,15 @@ pre {
 }
 
 .list-circles-item .item-col2 .item-talkabstract {
-  font-size: 1.125rem;
+  font-size: font-size: max(100%,1.25vw);
 }
 
 .list-circles-item .item-col2 .item-name {
-  font-size: 1.8rem;
+  font-size: max(100%,1.8vw);
 }
 
 .list-circles-item .item-col2 .item-talktitle {
-  font-size: 1.4rem;
+  font-size: max(100%,1.4vw);
 }
 
 .list-circles-item .item-links {
@@ -1137,12 +1138,12 @@ pre {
   background-color: #607b9e;
   color: #f1eea3;
   cursor: pointer;
-  padding: 18px;
+  padding: 1.2vw;
   width: 100%;
   border: none;
   text-align: left;
   outline: none;
-  font-size: 18px;
+  font-size: 1.2vw;
   /* font-weight: bold; */
 }
 
@@ -1156,7 +1157,7 @@ pre {
   color: #f1eea3;
   font-weight: bold;
   float: right;
-  margin-left: 5px;
+  margin-left: .5vw;
 }
 
 .active:after {
@@ -1165,7 +1166,7 @@ pre {
 }
 
 .content {
-  padding: 0 18px;
+  padding: 0 1.2vw;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
