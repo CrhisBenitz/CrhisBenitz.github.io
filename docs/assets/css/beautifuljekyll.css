@@ -842,12 +842,10 @@ table {
 } */
 
 table tr:hover {
-  border-top: 2px solid #cccccc;
   background-color: {{site.hover-col}};
 }
 
 table tbody:nth-child(2):hover {
-  border-top: 2px solid #cccccc;
   background-color: {{site.hover-col}};
 }
 
