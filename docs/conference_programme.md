@@ -34,12 +34,12 @@ ref: ref3
       <td rowspan="1">Ceremony: The Eavan Boland-Anne Enright Irish Studies Chair, at UNAM
       <span>
       With the distinguished participation of:<br><br>
-      -H. E. Ms Maeve von Heynitz, Irish Ambassador to Mexico.<br>
-      -Dr. José Francisco Trigo Tavera, Vice-Provost for International Affairs, International Head Office (CRAI-UNAM).
-      -Dr. Mary Frances Rodríguez Van Gort, Dean of The School of Philosophy and Literature, UNAM.<br>
-      -Dr. Nair Anaya Ferreira, Academic Secretary of The School of Philosophy and Literature, UNAM.<br>      
-      -Dr. Laura Zuntini de Izarra, Head of the W.B. Yeats Irish Studies Chair, University of São Paulo.<br>
-      -Ms Sarah Casey, Eavan Boland Estate,<br>
+      -H. E. Ms Maeve von Heynitz, Irish Ambassador to Mexico;<br>
+      -Dr. José Francisco Trigo Tavera, Vice-Provost for International Affairs International Head Office (CRAI-UNAM);<br>
+      -Dr. Mary Frances Rodríguez Van Gort, Dean of The School of Philosophy and Literature, UNAM;<br>
+      -Dr. Nair Anaya Ferreira, Academic Secretary of The School of Philosophy and Literature, UNAM;<br>      
+      -Dr. Laura Zuntini de Izarra, Head of the W.B. Yeats Irish Studies Chair, University of São Paulo;<br>
+      -Ms Sarah Casey, Eavan Boland Estate;<br>
       and<br>
       -Anne Enright, featured Irish author.
       </span></td>

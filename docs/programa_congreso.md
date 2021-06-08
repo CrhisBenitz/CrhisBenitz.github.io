@@ -17,8 +17,8 @@ ref: ref3
     </tr>
     <tr>
       <th>10:15-10:40</th>
-      <td colspan="4" rowspan="1">Conferencia magistal 1<span>
-      “Joyce, Borges, y el posthumanismo parasitario”<br>
+      <td colspan="4" rowspan="1">Conferencia magistral 1<span>
+      <b>“Joyce, Borges, y el posthumanismo parasitario”</b><br><br>
       Dr. James Ramey, UAM-Cuajimalpa</span></td>
     </tr>
     <tr>
@@ -30,38 +30,39 @@ ref: ref3
       <td colspan="4">Descanso</td>
     </tr>
     <tr>
-      <th>10:55-11:40</th>
+      <th>10:55-11:45</th>
       <td rowspan="1">Ceremonia: Cátedra Extraordinaria Eavan Boland-Anne Enright de Estudios Irlandeses, UNAM
       <span>
       Con la distinguida participación de:<br><br>
-      -Dra. Mary Frances Rodríguez Van Gort, Directora de la Facultad de Filosofía y Letras, UNAM<br>
-      -Dra. Nair Anaya Ferreira, Secretaria Académica de la Facultad de Filosofía y Letras, UNAM<br>
-      -S. E. Maeve von Heynitz, Embajadora de Irlanda en México<br>
-      -Dra. Laura Zuntini Izarra, Responsable de la Cátedra W.B. Yeats de Estudios Irlandeses, Universidad de São Paulo<br>
-      -Sra. Sarah Casey, en representación del Eavan Boland Estate,<br>
+      -S. E. Sra. Maeve von Heynitz, Embajadora de Irlanda en México<br>
+      -Dr. José Francisco Trigo Tavera, Coordinador de la CRAI-UNAM;<br>
+      -Dra. Mary Frances Rodríguez Van Gort, Directora de la Facultad de Filosofía y Letras, UNAM;<br>
+      -Dra. Nair Anaya Ferreira, Secretaria Académica de la Facultad de Filosofía y Letras, UNAM;<br>
+      -Dra. Laura Zuntini de Izarra, Responsable de la Cátedra W.B. Yeats de Estudios Irlandeses, Universidad de São Paulo;<br>
+      -Sra. Sarah Casey, en representación del Eavan Boland Estate;<br>
       y<br>
-      -Anne Enright, escritora invitada, figura emblemática de la Cátedra y conferencista magistral
+      -Anne Enright, escritora invitada, figura emblemática de la Cátedra y conferencista magistral.
       </span></td>
     </tr>
     <tr>
-      <th>11:40-12:00</th>
+      <th>11:45-12:05</th>
       <td rowspan="1">Conferencia magistral, a cargo de Anne Enright</td>
     </tr>
     <tr>
-      <th>12:00-12:10</th>
+      <th>12:05-12:15</th>
       <td rowspan="1">Sesión de preguntas</td>
     </tr>
     <tr>
-      <th>12:10-12:15</th>
+      <th>12:15-12:20</th>
       <td rowspan="1">Descanso</td>
     </tr>
     <tr>
-      <th>12:15-13:15</th>
+      <th>12:20-13:30</th>
       <td rowspan="1">Mesa redonda 1: Conversatorio con artistas irlandesas y latinoamericanas<br>
-      <span>Anne Enright-Ireland<br>
-      Mary Costello-Ireland<br>
-      Daniela Tarazona-Mexico<br>
-      Carmen Boullosa-Mexico<br>
+      <span>Anne Enright-Irlanda<br>
+      Mary Costello-Irlanda<br>
+      Daniela Tarazona-México<br>
+      Carmen Boullosa-México<br>
       Luci Collin-Brasil<br>
       Lina Meruane-Chile</span></td>
     </tr>
@@ -79,8 +80,8 @@ ref: ref3
   </tr>
   <tr>
     <th>10:05-10:30</th>
-    <td colspan="4" rowspan="1">Conferencia magistal 2:<span>
-    “Las vanguardias en 1922, <i>annus mirabilis</i> en Latinoamérica y Europa”<br>
+    <td colspan="4" rowspan="1">Conferencia magistral 2:<span>
+    <b>“Las vanguardias en 1922, <i>annus mirabilis</i> en Latinoamérica y Europa”</b><br><br>
     Dra. Yanna Hadatty, UNAM</span></td>
   </tr>
   <tr>
@@ -97,8 +98,8 @@ ref: ref3
   </tr>
   <tr>
     <th>10:50-11:15</th>
-    <td rowspan="1">Conferencia magistal 3:<span>
-    “Cartografías de las trayectorias joyceanas en Mexico"<br>
+    <td rowspan="1">Conferencia magistral 3:<span>
+    <b>“Cartografías de las trayectorias joyceanas en México"</b><br><br>
     Dr. Brian Price, Brigham Young University
     </span></td>
   </tr>
@@ -116,8 +117,8 @@ ref: ref3
   </tr>
   <tr>
     <th>11:35-12:00</th>
-    <td rowspan="1">Conferencia magistal 4:<span>
-    "Celebrando a Joyce en Brasil: estudios, traducciones, recepción crítica"<br>
+    <td rowspan="1">Conferencia magistral 4:<span>
+    <b>"Celebrando a Joyce en Brasil: estudios, traducciones, recepción crítica"</b><br><br>
     Dra. Luci Collin, Universidad Federal de Paraná, e investigadora de la Cátedra W.B. Yeats de Estudios Irlandeses, Universidad de São Paulo
     </span></td>
   </tr>
