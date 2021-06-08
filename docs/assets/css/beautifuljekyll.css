@@ -864,6 +864,7 @@ table th {
   font-weight: normal;
   padding-left: 5px;
   white-space: nowrap;
+  text-align: center;
 }
 
 table tr td {
