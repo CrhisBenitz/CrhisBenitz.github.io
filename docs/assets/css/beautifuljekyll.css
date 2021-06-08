@@ -894,10 +894,10 @@ table td > span {
 }
 
 table tr:hover td, tr:hover th {
-  border-top: 1px solid #99d0e0;
-  border-bottom: 1px solid #99d0e0;
-  border-left: 1px solid #99d0e0;
-  border-right: 1px solid #99d0e0;
+  border-top: 1px solid #ffffff;
+  border-bottom: 1px solid #ffffff;
+  border-left: 1px solid #ffffff;
+  border-right: 1px solid #ffffff;
   background-color: {{site.hover-col}};
 }
 
