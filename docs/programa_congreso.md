@@ -12,7 +12,7 @@ ref: ref3
 <h3>Jueves 10 de junio / Zona horaria de la Ciudad de México (GMT-5)<br><br></h3>
   <table>
     <tr>
-      <th>10:00-10:15   </th>
+      <th>10:00-10:15</th>
       <td colspan="4" rowspan="1">Inauguración</td>
     </tr>
     <tr class="s">
@@ -77,11 +77,11 @@ ref: ref3
 
 <table>
   <tr>
-    <th>10:00-10:05   </th>
+    <th>10:00-10:05</th>
     <td colspan="4" rowspan="1">Introducción</td>
   </tr>
   <tr class="s">
-    <th>10:05-10:30   </th>
+    <th>10:05-10:30</th>
     <td colspan="4" rowspan="1">Conferencia magistral 2:<span>
     <b>“Las vanguardias en 1922, <i>annus mirabilis</i> en Latinoamérica y Europa”</b><br><br>
     Dra. Yanna Hadatty, UNAM</span></td>

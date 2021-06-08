@@ -12,7 +12,7 @@ ref: ref3
 <h3>Thursday 10, June / Mexico City Time Zone (GMT-5)<br><br></h3>
   <table>
     <tr>
-      <th>10:00-10:15   </th>
+      <th>10:00-10:15</th>
       <td colspan="4" rowspan="1">Opening Words</td>
     </tr>
     <tr class="s">
