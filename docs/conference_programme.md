@@ -15,7 +15,7 @@ ref: ref3
       <th>10:00-10:15   </th>
       <td colspan="4" rowspan="1">Opening Words</td>
     </tr>
-    <tr>
+    <tr class="s">
       <th>10:15-10:40</th>
       <td colspan="4" rowspan="1">Keynote Lecture 1<span>
       <b>"Joyce, Borges, and Parasitic Posthumanism”</b><br><br>
@@ -30,7 +30,7 @@ ref: ref3
       <td colspan="4">Break</td>
     </tr>
     <tbody>
-    <tr>
+    <tr class="s">
       <th>10:55-12:15</th>
       <td rowspan="1">Ceremony: The Eavan Boland-Anne Enright Irish Studies Chair, at UNAM
       <span>
@@ -45,7 +45,7 @@ ref: ref3
       -Anne Enright, featured Irish author.
       </span></td>
     </tr>
-    <tr>
+    <tr class="s">
       <th>11:45-12:05</th>
       <td rowspan="1">Lecture by Anne Enright</td>
     </tr>
@@ -58,7 +58,7 @@ ref: ref3
       <th>12:15-12:20</th>
       <td rowspan="1">Break</td>
     </tr>
-    <tr>
+    <tr class="s">
       <th>12:20-13:30</th>
       <td rowspan="1">Roundtable 1: Irish and Latin American Artists in Conversation<br>
       <span><br>Anne Enright-Ireland<br>
@@ -78,7 +78,7 @@ ref: ref3
     <th>10:00-10:05   </th>
     <td colspan="4" rowspan="1">Introduction</td>
   </tr>
-  <tr>
+  <tr class="s">
     <th>10:05-10:30</th>
     <td colspan="4" rowspan="1">Keynote Lecture 2:<span>
     <b>“The Avant-garde Movements in 1922, <i>annus mirabilis</i> in Latin America and Europe”</b><br><br>
@@ -96,7 +96,7 @@ ref: ref3
     <th>10:45-10:50</th>
     <td colspan="4">Introduction</td>
   </tr>
-  <tr>
+  <tr class="s">
     <th>10:50-11:15</th>
     <td rowspan="1">Keynote Lecture 3:<span>
     <b>"Mapping Joycean Trajectories in Mexico"</b><br><br>
@@ -115,7 +115,7 @@ ref: ref3
     <th>11:30-11:35</th>
     <td rowspan="1">Introduction</td>
   </tr>
-  <tr>
+  <tr class="s">
     <th>11:35-12:00</th>
     <td rowspan="1">Keynote Lecture 4:<span>
     <b>"Celebrating Joyce in Brazil: Studies, Translations, Critical Reception"</b><br><br>
@@ -126,7 +126,7 @@ ref: ref3
     <th>12:00-12:10</th>
     <td rowspan="1">Q&A</td>
   </tr>
-  <tr>
+  <tr class="s">
     <th>12:10-12:30</th>
     <td rowspan="1">Bloomsday Celebration</td>
   </tr>

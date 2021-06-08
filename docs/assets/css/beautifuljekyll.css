@@ -841,10 +841,6 @@ table {
   background-color: #f8f8f8;
 } */
 
-table .s tr {
-  background-color: #f8f8f8;
-}
-
 table tr:hover {
   background-color: {{site.hover-col}};
 }
@@ -862,6 +858,11 @@ table tr {
   margin: 0;
   padding: 0;
 }
+
+table tr.s {
+  background-color: #f8f8f8;
+}
+
 table tr th {
   border: 1px solid #cccccc;
   text-align: left;

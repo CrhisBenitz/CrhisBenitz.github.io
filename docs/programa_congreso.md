@@ -15,7 +15,7 @@ ref: ref3
       <th>10:00-10:15   </th>
       <td colspan="4" rowspan="1">Inauguración</td>
     </tr>
-    <tr>
+    <tr class="s">
       <th>10:15-10:40</th>
       <td colspan="4" rowspan="1">Conferencia magistral 1<span>
       <b>“Joyce, Borges, y el posthumanismo parasitario”</b><br><br>
@@ -45,7 +45,7 @@ ref: ref3
       -Anne Enright, escritora invitada, figura emblemática de la Cátedra y conferencista magistral.
       </span></td>
     </tr>
-    <tr>
+    <tr class="s">
       <th>11:45-12:05</th>
       <td rowspan="1">Conferencia magistral, a cargo de Anne Enright</td>
     </tr>
@@ -58,7 +58,7 @@ ref: ref3
       <th>12:15-12:20</th>
       <td rowspan="1">Descanso</td>
     </tr>
-    <tr>
+    <tr class="s">
       <th>12:20-13:30</th>
       <td rowspan="1">Mesa redonda 1: Conversatorio con artistas irlandesas y latinoamericanas<br>
       <span>Anne Enright-Irlanda<br>
@@ -80,7 +80,7 @@ ref: ref3
     <th>10:00-10:05   </th>
     <td colspan="4" rowspan="1">Introducción</td>
   </tr>
-  <tr>
+  <tr class="s">
     <th>10:05-10:30</th>
     <td colspan="4" rowspan="1">Conferencia magistral 2:<span>
     <b>“Las vanguardias en 1922, <i>annus mirabilis</i> en Latinoamérica y Europa”</b><br><br>
@@ -98,7 +98,7 @@ ref: ref3
     <th>10:45-10:50</th>
     <td colspan="4">Introducción</td>
   </tr>
-  <tr>
+  <tr class="s">
     <th>10:50-11:15</th>
     <td rowspan="1">Conferencia magistral 3:<span>
     <b>“Cartografías de las trayectorias joyceanas en México"</b><br><br>
@@ -117,7 +117,7 @@ ref: ref3
     <th>11:30-11:35</th>
     <td rowspan="1">Introducción</td>
   </tr>
-  <tr>
+  <tr class="s">
     <th>11:35-12:00</th>
     <td rowspan="1">Conferencia magistral 4:<span>
     <b>"Celebrando a Joyce en Brasil: estudios, traducciones, recepción crítica"</b><br><br>
@@ -128,7 +128,7 @@ ref: ref3
     <th>12:00-12:10</th>
     <td rowspan="1">Sesión de preguntas</td>
   </tr>
-  <tr>
+  <tr class="s">
     <th>12:10-12:30</th>
     <td rowspan="1">Celebración de Bloomsday</td>
   </tr>
