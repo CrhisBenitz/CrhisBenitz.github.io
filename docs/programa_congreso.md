@@ -30,7 +30,7 @@ ref: ref3
       <td colspan="4">Descanso</td>
     </tr>
     <tbody>
-    <tr>
+    <tr class="shaded">
       <th>10:55-12:15</th>
       <td rowspan="1">Ceremonia: Cátedra Extraordinaria Eavan Boland-Anne Enright de Estudios Irlandeses, UNAM
       <span>
