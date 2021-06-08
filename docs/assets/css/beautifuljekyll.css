@@ -841,7 +841,7 @@ table {
   background-color: #f8f8f8;
 } */
 
-table tr .shaded {
+.shaded {
   background-color: #f8f8f8;
 }
 
