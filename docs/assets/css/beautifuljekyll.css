@@ -841,16 +841,6 @@ table {
   background-color: #f8f8f8;
 } */
 
-table tr:hover {
-  background-color: {{site.hover-col}};
-}
-
-table tbody:nth-child(2):hover tr {
-  border-top: 1px solid #ffffff;
-  border-bottom: 1px solid #ffffff;
-  border-left: 1px solid #ffffff;
-  background-color: {{site.hover-col}};
-}
 
 table tr {
   border-top: 1px solid #cccccc;
@@ -901,6 +891,22 @@ table td > span {
   font-weight: normal;
   display: block;
   width: 100%;
+}
+
+table tr:hover td, tr:hover th {
+  border-top: 1px solid #99d0e0;
+  border-bottom: 1px solid #99d0e0;
+  border-left: 1px solid #99d0e0;
+  border-right: 1px solid #99d0e0;
+  background-color: {{site.hover-col}};
+}
+
+table tbody:nth-child(2):hover td, tbody:nth-child(2):hover th {
+  border-top: 1px solid #ffffff;
+  border-bottom: 1px solid #ffffff;
+  border-left: 1px solid #ffffff;
+  border-right: 1px solid #ffffff;
+  background-color: {{site.hover-col}};
 }
 
 
