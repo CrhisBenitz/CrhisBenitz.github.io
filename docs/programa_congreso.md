@@ -81,7 +81,7 @@ ref: ref3
     <td colspan="4" rowspan="1">Introducción</td>
   </tr>
   <tr class="s">
-    <th>10:05-10:30</th>
+    <th>10:05-10:30   </th>
     <td colspan="4" rowspan="1">Conferencia magistral 2:<span>
     <b>“Las vanguardias en 1922, <i>annus mirabilis</i> en Latinoamérica y Europa”</b><br><br>
     Dra. Yanna Hadatty, UNAM</span></td>
