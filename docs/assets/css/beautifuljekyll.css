@@ -845,7 +845,7 @@ table tr:hover {
   background-color: {{site.hover-col}};
 }
 
-tbody:nth-child(2):hover {
+table tbody:nth-child(2):hover tr {
   background-color: {{site.hover-col}};
 }
 
