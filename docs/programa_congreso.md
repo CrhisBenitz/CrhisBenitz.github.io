@@ -12,7 +12,7 @@ ref: ref3
 <h3>Jueves 10 de junio / Zona horaria de la Ciudad de México (GMT-5)<br><br></h3>
   <table>
     <tr>
-      <th>10:00-10:15</th>
+      <th>10:00-10:15   </th>
       <td colspan="4" rowspan="1">Inauguración</td>
     </tr>
     <tr>
@@ -30,7 +30,7 @@ ref: ref3
       <td colspan="4">Descanso</td>
     </tr>
     <tr>
-      <th>10:55-11:45</th>
+      <th>10:55-12:15</th>
       <td rowspan="1">Ceremonia: Cátedra Extraordinaria Eavan Boland-Anne Enright de Estudios Irlandeses, UNAM
       <span>
       Con la distinguida participación de:<br><br>
@@ -75,7 +75,7 @@ ref: ref3
 
 <table>
   <tr>
-    <th>10:00-10:05</th>
+    <th>10:00-10:05   </th>
     <td colspan="4" rowspan="1">Introducción</td>
   </tr>
   <tr>

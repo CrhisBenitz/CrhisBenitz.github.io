@@ -12,7 +12,7 @@ ref: ref3
 <h3>Thursday 10, June / Mexico City Time Zone (GMT-5)<br><br></h3>
   <table>
     <tr>
-      <th>10:00-10:15</th>
+      <th>10:00-10:15   </th>
       <td colspan="4" rowspan="1">Opening Words</td>
     </tr>
     <tr>
@@ -30,7 +30,7 @@ ref: ref3
       <td colspan="4">Break</td>
     </tr>
     <tr>
-      <th>10:55-11:45</th>
+      <th>10:55-12:15</th>
       <td rowspan="1">Ceremony: The Eavan Boland-Anne Enright Irish Studies Chair, at UNAM
       <span>
       With the distinguished participation of:<br><br>
@@ -73,7 +73,7 @@ ref: ref3
 
 <table>
   <tr>
-    <th>10:00-10:05</th>
+    <th>10:00-10:05   </th>
     <td colspan="4" rowspan="1">Introduction</td>
   </tr>
   <tr>
