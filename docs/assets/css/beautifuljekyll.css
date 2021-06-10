@@ -1482,7 +1482,6 @@ pre {
   overflow: hidden;
   text-align: justify;
   margin-left: 5vw;
-  margin-right: 5vw;
 }
 
 .split-footer > * {
@@ -1495,7 +1494,7 @@ pre {
 
 .split-footer img{
   max-width: 25vw;
-  width:80%;
+  width:100%;
 }
 
 @media (max-width: 40em) {
@@ -1507,20 +1506,15 @@ pre {
     overflow: hidden;
     text-align: justify;
     margin-left: 5vw;
-    margin-right: 5vw;
   }
 
   .split-footer > * {
     flex-basis: 100%;
-  }
-
-  .split-footer > * + * {
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem
   }
 
   .split-footer img{
-    max-width: 75vw;
-    width:80%;
+    max-width: 55vw;
   }
 
 }
