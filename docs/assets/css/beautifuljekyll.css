@@ -1493,6 +1493,11 @@ pre {
   margin-left: 1vw;
 }
 
+.split-footer img{
+  max-width: 30vw
+  width:100%
+}
+
 @media (max-width: 40em) {
 
   .split-footer {
