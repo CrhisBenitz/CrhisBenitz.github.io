@@ -1518,4 +1518,9 @@ pre {
     margin-bottom: 1rem;
   }
 
+  .split-footer img{
+    max-width: 75vw;
+    width:80%;
+  }
+
 }
