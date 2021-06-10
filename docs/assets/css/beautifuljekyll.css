@@ -1359,8 +1359,8 @@ pre {
   margin-left: -47vw;
   margin-right: - 47vw;
   overflow: hidden;
-  background-color: rgba(211, 215, 152,.6);
-  border: 5px solid #D3D798;
+  background-color: rgba(96, 123, 158,.9);
+  border: 5px solid #607b9e;
   padding: 40px;
   border-radius: 10px;"
 }
@@ -1368,12 +1368,13 @@ pre {
 .home-content p {
   text-align: justify;
   margin: 1vh 0;
+  color: white;
 }
 
 
 @media (min-width: 600px) {
   .home-content {
-    margin-top:2rem;
+    margin-top:1.5rem;
     width: 70vw;
     position: relative;
     left: 50%;
@@ -1381,14 +1382,15 @@ pre {
     margin-left: -35vw;
     margin-right: - 35vw;
     overflow: hidden;
-    background-color: rgba(211, 215, 152,.6);
-    border: 5px solid #D3D798;
+    background-color: rgba(96, 123, 158,.9);
+    border: 5px solid #607b9e;
     padding: 40px;
     border-radius: 10px;"
   }
   .home-content p {
     text-align: justify;
     margin: 1vh 0;
+    color: white;
   }
 }
 
