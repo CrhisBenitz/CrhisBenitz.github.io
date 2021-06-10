@@ -1,25 +1,28 @@
 <footer>
   <div class="container-fluid">
-	<div class="row">
-  	  <div class="col-sm-14 offset-sm-0 col-lg-7" style="padding-left: .5vw;">
-
-	  <img style="max-width:23vw" src="https://globalirish.georgetown.edu/wp-content/uploads/sites/20/2020/11/Embassy-logo-1-6.png">
-    <img style="max-width:16vw" src="https://github.com/CrhisBenitz/congresoK/blob/master/docs/assets/img/logo_unam_blanco.png?raw=true">
-    <img style="max-width:16vw; padding-left: 3vw;" src="https://github.com/CrhisBenitz/congresoK/blob/master/docs/assets/img/logo_blanco_colores_ffyl.png?raw=true">
-  </div>
-
-	  <div class="col-sm-14 offset-sm-0 col-lg-4" style="padding-top: 1.1vw;">
+  <div class="split-footer">
+    <div>
+      <img style="max-width:23vw" src="https://globalirish.georgetown.edu/wp-content/uploads/sites/20/2020/11/Embassy-logo-1-6.png">
+    </div>
+    <div>
+      <img style="max-width:16vw" src="{{ /assets/img/logo_unam_blanco.png | relative_url }}">
+    </div>
+    <div>
+      <img style="max-width:16vw; padding-left: 3vw;" src="{{ /assets/img/logo_blanco_colores_ffyl.png | relative_url }}">
+    </div>
+    <div>
       <p class="copyright text-muted" style="text-align:right;padding-right: .5vw; font-size: 1vw;">
-    {% if site.author-ml %}
-      {{ site.author-ml[page.lang] }}
-      &nbsp;&bull;&nbsp;
-    {% endif %}
-    {{ site.time | date: '%Y' }}<br>
-		{{ site.GDcredits[page.lang] }}: Luis Bermejillo<br>
-    {{ site.WDcredits[page.lang] }}: Crhistian Benitez Abarca<br>
-    {{ site.BJcredits[page.lang] }} <a href="https://beautifuljekyll.com">Beautiful Jekyll</a><br>
-    </p>
-	  </div>
+        {% if site.author-ml %}
+          {{ site.author-ml[page.lang] }}
+          &nbsp;&bull;&nbsp;
+        {% endif %}
+        {{ site.time | date: '%Y' }}<br>
+        {{ site.GDcredits[page.lang] }}: Luis Bermejillo<br>
+        {{ site.WDcredits[page.lang] }}: Crhistian Benitez Abarca<br>
+        {{ site.BJcredits[page.lang] }} <a href="https://beautifuljekyll.com">Beautiful Jekyll</a><br>
+      </p>
+    </div>
+
 	</div>
   </div>
 </footer>
