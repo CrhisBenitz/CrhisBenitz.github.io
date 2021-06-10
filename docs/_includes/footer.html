@@ -4,7 +4,7 @@
 
     {% for logo_i in site.footer_logos %}
       <div>
-        <img src="{{ logo_i | relative_url }}">
+        <img src="{{ logo_i[1] | relative_url }}">
       </div>
     {% endfor %}
 

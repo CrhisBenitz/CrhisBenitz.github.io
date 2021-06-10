@@ -62,7 +62,7 @@ round-avatar: true
 title-img: "/assets/img/logo-title.png"
 
 footer_logos:
-  -embajada: "assets/img/logo_embajada.png"
+  -embajada: "assets/img/embassy_logo.png"
   -unam: "assets/img/logo_unam_blanco.png"
   -ffyl: "assets/img/logo_blanco_colores_ffyl.png"
 
