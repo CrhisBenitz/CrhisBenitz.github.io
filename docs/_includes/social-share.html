@@ -48,6 +48,15 @@
       <span class="sr-only">Reddit</span>
     </a>
   {% endif %}
+
+  {% if site.share-links-active.mail %}
+    <a href="javascript:emailCurrentPage()"
+    class="btn btn-social-icon btn-google" title="Share via mail">
+    <span class="fab fa-fw fa-google" aria-hidden="true"></span>
+    <span class="sr-only">Mail</span>
+    </a>
+  {% endif %}
+  
 </div>
 </section>
 
