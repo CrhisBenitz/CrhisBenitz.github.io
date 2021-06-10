@@ -36,7 +36,7 @@ ref: ref3
       <span>
       Con la distinguida participación de:<br><br>
       -S. E. Sra. Maeve von Heynitz, Embajadora de Irlanda en México<br>
-      -Dr. José Francisco Trigo Tavera, Coordinador de la CRAI-UNAM;<br>
+      -Dr. Francisco José Trigo Tavera, Coordinador de la CRAI-UNAM;<br>
       -Dra. Mary Frances Rodríguez Van Gort, Directora de la Facultad de Filosofía y Letras, UNAM;<br>
       -Dra. Nair Anaya Ferreira, Secretaria Académica de la Facultad de Filosofía y Letras, UNAM;<br>
       -Dra. Laura Zuntini de Izarra, Responsable de la Cátedra W.B. Yeats de Estudios Irlandeses, Universidad de São Paulo;<br>

@@ -36,7 +36,7 @@ ref: ref3
       <span>
       With the distinguished participation of:<br><br>
       -H. E. Ms Maeve von Heynitz, Irish Ambassador to Mexico;<br>
-      -Dr. José Francisco Trigo Tavera, Vice-Provost for International Affairs International Head Office (CRAI-UNAM);<br>
+      -Dr. Francisco José Trigo Tavera, Vice-Provost for International Affairs International Head Office (CRAI-UNAM);<br>
       -Dr. Mary Frances Rodríguez Van Gort, Dean of The School of Philosophy and Literature, UNAM;<br>
       -Dr. Nair Anaya Ferreira, Academic Secretary of The School of Philosophy and Literature, UNAM;<br>      
       -Dr. Laura Zuntini de Izarra, Head of the W.B. Yeats Irish Studies Chair, University of São Paulo;<br>
