@@ -61,6 +61,10 @@ round-avatar: true
 # then specify the following parameter
 title-img: "/assets/img/logo-title.png"
 
+footer_logos:
+  -embajada: "assets/img/logo_embajada.png"
+  -unam: "assets/img/logo_unam_blanco.png"
+  -ffyl: "assets/img/logo_blanco_colores_ffyl.png"
 
 # --- Footer social media links --- #
 

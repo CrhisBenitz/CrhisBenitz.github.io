@@ -1,15 +1,13 @@
 <footer>
   <div class="container-fluid">
   <div class="split-footer">
-    <div>
-      <img style="max-width:23vw" src="https://globalirish.georgetown.edu/wp-content/uploads/sites/20/2020/11/Embassy-logo-1-6.png">
-    </div>
-    <div>
-      <img style="max-width:16vw" src="{{ /assets/img/logo_unam_blanco.png | relative_url }}">
-    </div>
-    <div>
-      <img style="max-width:16vw; padding-left: 3vw;" src="{{ /assets/img/logo_blanco_colores_ffyl.png | relative_url }}">
-    </div>
+
+    {% for logo_i in site.footer_logos %}
+      <div>
+        <img src="{{ logo_i | relative_url }}">
+      </div>
+    {% endfor %}
+
     <div>
       <p class="copyright text-muted" style="text-align:right;padding-right: .5vw; font-size: 1vw;">
         {% if site.author-ml %}
