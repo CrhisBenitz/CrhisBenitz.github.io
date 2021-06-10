@@ -1,5 +1,15 @@
 <footer>
   <div class="container-fluid">
+    {% if site.author-ml %}
+    <div>
+    <p class="copyright text-muted" style="font-size: 3vw;">
+        {{ site.author-ml[page.lang] }}
+        &nbsp;&bull;&nbsp;
+        {{ site.time | date: '%Y' }}<br>
+    </p>
+    </div>
+    {% endif %}
+
   <div class="split-footer">
 
     {% for logo_i in site.footer_logos %}
@@ -8,19 +18,14 @@
       </div>
     {% endfor %}
 
-    <div>
-      <p class="copyright text-muted" style="text-align:right;padding-right: .5vw; font-size: .8rem;">
-        {% if site.author-ml %}
-          {{ site.author-ml[page.lang] }}
-          &nbsp;&bull;&nbsp;
-        {% endif %}
-        {{ site.time | date: '%Y' }}<br>
-        {{ site.GDcredits[page.lang] }}: Luis Bermejillo<br>
-        {{ site.WDcredits[page.lang] }}: Crhistian Benitez Abarca<br>
-        {{ site.BJcredits[page.lang] }} <a href="https://beautifuljekyll.com">Beautiful Jekyll</a><br>
-      </p>
-    </div>
+  </div>
+  <div>
+    <p class="copyright text-muted" style="/* text-align:right; */padding-top: 2vw; font-size: 1.2vw;">
+      {{ site.GDcredits[page.lang] }}: Luis Bermejillo &nbsp;&bull;&nbsp;
+      {{ site.WDcredits[page.lang] }}: Crhistian Benitez Abarca<br>
+      {{ site.BJcredits[page.lang] }} <a href="https://beautifuljekyll.com">Beautiful Jekyll</a><br>
+    </p>
+  </div>
 
-	</div>
   </div>
 </footer>
