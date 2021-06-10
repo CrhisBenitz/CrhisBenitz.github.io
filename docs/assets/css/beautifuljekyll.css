@@ -1490,12 +1490,12 @@ pre {
 }
 
 .split-footer > * + * {
-  margin-left: 1vw;
+  margin-left: 5vw;
 }
 
 .split-footer img{
-  max-width: 30vw
-  width:100%
+  max-width: 25vw
+  width:80%
 }
 
 @media (max-width: 40em) {
