@@ -101,6 +101,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
+  mail: true
   #linkedin: true
   vk: false
 
