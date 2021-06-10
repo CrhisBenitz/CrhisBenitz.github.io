@@ -1495,7 +1495,7 @@ pre {
 
 .split-footer img{
   max-width: 25vw;
-  width:100%;
+  width:80%;
 }
 
 @media (max-width: 40em) {
