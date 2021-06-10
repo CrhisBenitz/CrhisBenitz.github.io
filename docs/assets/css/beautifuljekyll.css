@@ -1352,7 +1352,7 @@ pre {
 
 .home-content {
   margin-top:1vh;
-  width: 70vw;
+  width: 90vw;
   position: relative;
   left: 50%;
   right: 50%;
@@ -1374,7 +1374,7 @@ pre {
 @media (min-width: 600px) {
   .home-content {
     margin-top:2rem;
-    width: 90vw;
+    width: 70vw;
     position: relative;
     left: 50%;
     right: 50%;
