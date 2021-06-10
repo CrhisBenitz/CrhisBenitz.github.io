@@ -7,8 +7,8 @@
 {% endfor %}
 
 {% if any-share-links %}
-<section id = "social-share-section" style="width: 70vw; position: relative; left: 50%; right: 50%; margin-left: -35vw;margin-right: -35vw; overflow: hidden;">
-
+<section id = "social-share-section" class="home-content" style="background-color: white;border: 0px;padding: 0;">
+  <div style="float:right;">
   {% if site.share-links-active.twitter %}
     <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}"
       class="btn btn-social-icon btn-twitter" title="Share on Twitter" style="margin-left: calc(max(100% - 85px,55vw));">
@@ -48,7 +48,7 @@
       <span class="sr-only">Reddit</span>
     </a>
   {% endif %}
-
+</div>
 </section>
 
 {% endif %}
