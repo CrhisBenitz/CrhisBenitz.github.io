@@ -1515,7 +1515,7 @@ pre {
   }
 
   .split-footer > * + * {
-    margin-left: 0vw;
+    margin-bottom: 1rem;
   }
 
 }
