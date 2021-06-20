@@ -38,6 +38,8 @@ navbar-links:
     Authors: "authors"
     Irish Studies Chair: "irish_studies_chair"
     Conference Programme: "conference_programme"
+    Conference videos: "conference_videos"
+    # Recomendation: "recomendations"
     Registration: "https://us02web.zoom.us/webinar/register/WN_ULXr93pSTQeY9MjpUBzsiw"
 
   es:
@@ -45,6 +47,8 @@ navbar-links:
     Escritoras: "escritoras"
     Cátedra de Estudios Irlandeses: "catedra_estudios_irlandeses"
     Programa del congreso: "programa_congreso"
+    Videos del congreso: "videos_congreso"
+    # Recomendaciones: "recomendaciones"
     Inscripción: "https://us02web.zoom.us/webinar/register/WN_ULXr93pSTQeY9MjpUBzsiw"
 
 # --- Logo --- #
